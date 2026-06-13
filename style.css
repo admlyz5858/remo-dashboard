@@ -1,0 +1,6 @@
+.badge { padding: 2px 8px; border-radius: 9999px; font-size: 12px; font-weight: 700; }
+.s-scheduled { background:#1e3a8a; color:#bfdbfe; }
+.s-published { background:#064e3b; color:#a7f3d0; }
+.s-pending   { background:#3f3f46; color:#d4d4d8; }
+.s-rejected  { background:#7f1d1d; color:#fecaca; }
+.tab.active { outline: 2px solid #10b981; }

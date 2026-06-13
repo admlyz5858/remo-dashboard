@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>remo · Video Fabrikası</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen">
+  <div class="max-w-3xl mx-auto p-4">
+    <header class="flex items-center justify-between mb-4">
+      <h1 class="text-2xl font-extrabold">🎬 remo · Video Fabrikası</h1>
+      <span id="status" class="text-sm text-zinc-400">bağlanıyor…</span>
+    </header>
+
+    <section id="metrics" class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-5"></section>
+    <section id="channels" class="grid grid-cols-2 gap-3 mb-5"></section>
+
+    <section class="bg-zinc-900 rounded-2xl p-4 mb-5">
+      <h2 class="font-bold mb-3">🎬 Üret</h2>
+      <div class="flex flex-wrap gap-3 items-center mb-3">
+        <label class="flex items-center gap-2"><input type="radio" name="ch" value="facts" checked> DustMust (ilginç bilgi)</label>
+        <label class="flex items-center gap-2"><input type="radio" name="ch" value="money"> Fun Honey (para)</label>
+      </div>
+      <input id="topic" placeholder="Konu (opsiyonel — boş bırak otomatik)" class="w-full bg-zinc-800 rounded-lg px-3 py-2 mb-3" />
+      <div class="flex gap-2">
+        <button id="produce" class="bg-emerald-500 text-black font-bold rounded-lg px-4 py-2">Üret ve kuyruğa ekle</button>
+        <button id="settings" class="bg-zinc-700 rounded-lg px-3 py-2">⚙️ Token</button>
+      </div>
+      <p id="produceMsg" class="text-sm text-zinc-400 mt-2"></p>
+    </section>
+
+    <nav class="flex gap-2 mb-3">
+      <button class="tab bg-zinc-800 rounded-lg px-3 py-1.5 font-semibold" data-tab="queue">Kuyruk</button>
+      <button class="tab bg-zinc-800 rounded-lg px-3 py-1.5 font-semibold" data-tab="published">Yayınlananlar</button>
+    </nav>
+    <section id="list" class="space-y-2"></section>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
