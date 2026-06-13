@@ -1,1 +1,217 @@
-{ "updated_at": "", "channels": { "facts": { "name": "DustMust", "handle": "@DustMust", "niche": "İlginç bilgiler", "accent": "#FFD400" }, "money": { "name": "Fun Honey", "handle": "@FunHoney", "niche": "Para & finans", "accent": "#16C784" } }, "videos": [], "metrics": { "scheduled": 0, "published": 0, "today": 0, "total_views": 0 } }
+{
+  "updated_at": "2026-06-13T19:24:55Z",
+  "channels": {
+    "facts": {
+      "name": "DustMust",
+      "handle": "@DustMust",
+      "niche": "İlginç bilgiler",
+      "accent": "#FFD400"
+    },
+    "money": {
+      "name": "Fun Honey",
+      "handle": "@FunHoney",
+      "niche": "Para & finans",
+      "accent": "#16C784"
+    }
+  },
+  "videos": [
+    {
+      "video_id": "xuUGDn7v3CY",
+      "url": "https://youtu.be/xuUGDn7v3CY",
+      "mode": "facts",
+      "topic": "Octopuses",
+      "status": "pending",
+      "publish_at": null,
+      "runId": "run-20260611-132515",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/xuUGDn7v3CY/hqdefault.jpg"
+    },
+    {
+      "video_id": "cxn-MogZH_Y",
+      "url": "https://youtu.be/cxn-MogZH_Y",
+      "mode": "facts",
+      "topic": "Honey",
+      "status": "pending",
+      "publish_at": null,
+      "runId": "run-20260611-171014",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/cxn-MogZH_Y/hqdefault.jpg"
+    },
+    {
+      "video_id": "DwYriJS62AU",
+      "url": "https://youtu.be/DwYriJS62AU",
+      "mode": "facts",
+      "topic": "Bananas",
+      "status": "pending",
+      "publish_at": null,
+      "runId": "run-20260611-172411",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/DwYriJS62AU/hqdefault.jpg"
+    },
+    {
+      "video_id": "qYR3ZunoBOg",
+      "url": "https://youtu.be/qYR3ZunoBOg",
+      "mode": "facts",
+      "topic": "Pineapples",
+      "status": "pending",
+      "publish_at": null,
+      "runId": "run-20260611-192428",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/qYR3ZunoBOg/hqdefault.jpg"
+    },
+    {
+      "video_id": "uCsSVMadrzs",
+      "url": "https://youtu.be/uCsSVMadrzs",
+      "mode": "facts",
+      "topic": "Kangaroos",
+      "status": "pending",
+      "publish_at": null,
+      "runId": "run-20260611-200542",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/uCsSVMadrzs/hqdefault.jpg"
+    },
+    {
+      "video_id": "dFdeX6Z4PbY",
+      "url": "https://youtu.be/dFdeX6Z4PbY",
+      "mode": "money",
+      "topic": "The Marshmallow Test and Money Habits",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260612-102747",
+      "views": 2,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/dFdeX6Z4PbY/hqdefault.jpg"
+    },
+    {
+      "video_id": "hds2aLzl6RE",
+      "url": "https://youtu.be/hds2aLzl6RE",
+      "mode": "facts",
+      "topic": "Axolotls",
+      "status": "pending",
+      "publish_at": null,
+      "runId": "run-20260612-113003",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/hds2aLzl6RE/hqdefault.jpg"
+    },
+    {
+      "video_id": "5E4-lWFUS3U",
+      "url": "https://youtu.be/5E4-lWFUS3U",
+      "mode": "facts",
+      "topic": "Platypuses",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260612-191139",
+      "views": 92,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/5E4-lWFUS3U/hqdefault.jpg"
+    },
+    {
+      "video_id": "XpIV_YYMZN0",
+      "url": "https://youtu.be/XpIV_YYMZN0",
+      "mode": "facts",
+      "topic": "Sloths",
+      "status": "scheduled",
+      "publish_at": "2026-06-14T09:00:00Z",
+      "runId": "run-20260613-090941",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/XpIV_YYMZN0/hqdefault.jpg"
+    },
+    {
+      "video_id": "1ZO4DtSgAZo",
+      "url": "https://youtu.be/1ZO4DtSgAZo",
+      "mode": "facts",
+      "topic": "Narwhals",
+      "status": "scheduled",
+      "publish_at": "2026-06-14T15:00:00Z",
+      "runId": "run-20260613-090941",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/1ZO4DtSgAZo/hqdefault.jpg"
+    },
+    {
+      "video_id": "MuwcHP6pKNg",
+      "url": "https://youtu.be/MuwcHP6pKNg",
+      "mode": "facts",
+      "topic": "Glass Frogs",
+      "status": "scheduled",
+      "publish_at": "2026-06-15T09:00:00Z",
+      "runId": "run-20260613-090959",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/MuwcHP6pKNg/hqdefault.jpg"
+    },
+    {
+      "video_id": "5p9j5fyVuLY",
+      "url": "https://youtu.be/5p9j5fyVuLY",
+      "mode": "money",
+      "topic": "The Psychology of Impulse Buys",
+      "status": "scheduled",
+      "publish_at": "2026-06-14T11:00:00Z",
+      "runId": "run-20260613-091014",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/5p9j5fyVuLY/hqdefault.jpg"
+    },
+    {
+      "video_id": "QmQiyYPgPX0",
+      "url": "https://youtu.be/QmQiyYPgPX0",
+      "mode": "money",
+      "topic": "The Psychology of Pricing",
+      "status": "scheduled",
+      "publish_at": "2026-06-14T17:00:00Z",
+      "runId": "run-20260613-091004",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/QmQiyYPgPX0/hqdefault.jpg"
+    },
+    {
+      "video_id": "UXOz5sYEsfI",
+      "url": "https://youtu.be/UXOz5sYEsfI",
+      "mode": "money",
+      "topic": "The Psychology of Discounts: Why '50% Off' Tricks Your Brain",
+      "status": "scheduled",
+      "publish_at": "2026-06-15T11:00:00Z",
+      "runId": "run-20260613-091018",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/UXOz5sYEsfI/hqdefault.jpg"
+    },
+    {
+      "video_id": "ILRzREsiIPo",
+      "url": "https://youtu.be/ILRzREsiIPo",
+      "mode": "money",
+      "topic": "The Anchoring Effect in Spending",
+      "status": "scheduled",
+      "publish_at": "2026-06-15T17:00:00Z",
+      "runId": "run-20260613-091010",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/ILRzREsiIPo/hqdefault.jpg"
+    },
+    {
+      "video_id": "JMJnU9-Mjas",
+      "url": "https://youtu.be/JMJnU9-Mjas",
+      "mode": "facts",
+      "topic": "Bioluminescent Fungi",
+      "status": "scheduled",
+      "publish_at": "2026-06-15T15:00:00Z",
+      "runId": "run-20260613-105716",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/JMJnU9-Mjas/hqdefault.jpg"
+    }
+  ],
+  "metrics": {
+    "scheduled": 8,
+    "published": 2,
+    "today": 8,
+    "total_views": 94
+  }
+}
