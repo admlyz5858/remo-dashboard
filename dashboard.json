@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T19:24:55Z",
+  "updated_at": "2026-06-13T20:57:33.275Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -107,7 +107,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260612-191139",
-      "views": 92,
+      "views": 93,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/5E4-lWFUS3U/hqdefault.jpg"
     },
@@ -206,12 +206,60 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/JMJnU9-Mjas/hqdefault.jpg"
+    },
+    {
+      "video_id": "nQSwEx0iMWE",
+      "url": "https://youtu.be/nQSwEx0iMWE",
+      "mode": "facts",
+      "topic": "Sea Cucumbers",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260613-112014",
+      "views": 318,
+      "likes": 2,
+      "thumbnail": "https://img.youtube.com/vi/nQSwEx0iMWE/hqdefault.jpg"
+    },
+    {
+      "video_id": "52oLd5ptMe8",
+      "url": "https://youtu.be/52oLd5ptMe8",
+      "mode": "money",
+      "topic": "The Psychology of Subscription Services",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260613-122335",
+      "views": 13,
+      "likes": 1,
+      "thumbnail": "https://img.youtube.com/vi/52oLd5ptMe8/hqdefault.jpg"
+    },
+    {
+      "video_id": "4hNG3GKb91w",
+      "url": "https://youtu.be/4hNG3GKb91w",
+      "mode": "facts",
+      "topic": "Peacock Spiders",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260613-161100",
+      "views": 243,
+      "likes": 2,
+      "thumbnail": "https://img.youtube.com/vi/4hNG3GKb91w/hqdefault.jpg"
+    },
+    {
+      "video_id": "d3qmDQUF8XQ",
+      "url": "https://youtu.be/d3qmDQUF8XQ",
+      "mode": "money",
+      "topic": "The Psychology of Sunk Costs",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260613-181453",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/d3qmDQUF8XQ/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 8,
-    "published": 2,
-    "today": 8,
-    "total_views": 94
+    "published": 6,
+    "today": 12,
+    "total_views": 669
   }
 }
