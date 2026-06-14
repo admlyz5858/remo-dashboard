@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T17:08:07.911Z",
+  "updated_at": "2026-06-14T18:23:58.307Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -119,8 +119,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T09:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 1114,
-      "likes": 14,
+      "views": 1176,
+      "likes": 15,
       "thumbnail": "https://img.youtube.com/vi/XpIV_YYMZN0/hqdefault.jpg"
     },
     {
@@ -131,7 +131,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T15:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/1ZO4DtSgAZo/hqdefault.jpg"
     },
@@ -167,7 +167,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T17:00:00Z",
       "runId": "run-20260613-091004",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/QmQiyYPgPX0/hqdefault.jpg"
     },
@@ -227,7 +227,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-122335",
-      "views": 63,
+      "views": 67,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/52oLd5ptMe8/hqdefault.jpg"
     },
@@ -239,7 +239,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-161100",
-      "views": 230,
+      "views": 231,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/4hNG3GKb91w/hqdefault.jpg"
     },
@@ -251,7 +251,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-181453",
-      "views": 35,
+      "views": 37,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/d3qmDQUF8XQ/hqdefault.jpg"
     },
@@ -287,7 +287,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260614-130027",
-      "views": 1,
+      "views": 13,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/HPAgjrc8NTU/hqdefault.jpg"
     },
@@ -299,15 +299,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260614-161822",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/RNJuSq36uMs/hqdefault.jpg"
+    },
+    {
+      "video_id": "26PT_O5ZVKI",
+      "url": "https://youtu.be/26PT_O5ZVKI",
+      "mode": "money",
+      "topic": "The Psychology of Gift Cards",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260614-181824",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/26PT_O5ZVKI/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 10,
-    "published": 8,
-    "today": 4,
-    "total_views": 1908
+    "published": 9,
+    "today": 5,
+    "total_views": 1992
   }
 }
