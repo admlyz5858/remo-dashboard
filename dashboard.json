@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T11:22:57.519Z",
+  "updated_at": "2026-06-14T11:31:20.046Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -119,8 +119,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T09:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 303,
-      "likes": 4,
+      "views": 423,
+      "likes": 5,
       "thumbnail": "https://img.youtube.com/vi/XpIV_YYMZN0/hqdefault.jpg"
     },
     {
@@ -227,7 +227,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-122335",
-      "views": 35,
+      "views": 49,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/52oLd5ptMe8/hqdefault.jpg"
     },
@@ -254,12 +254,24 @@
       "views": 30,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/d3qmDQUF8XQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "VNCD26uQRm0",
+      "url": "https://youtu.be/VNCD26uQRm0",
+      "mode": "money",
+      "topic": "Money and Emotions",
+      "status": "scheduled",
+      "publish_at": "2026-06-16T11:00:00.000Z",
+      "runId": "run-20260614-112737",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/VNCD26uQRm0/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 8,
+    "scheduled": 9,
     "published": 6,
-    "today": 0,
-    "total_views": 1025
+    "today": 1,
+    "total_views": 1159
   }
 }
