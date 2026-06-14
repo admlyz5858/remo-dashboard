@@ -1,7 +1,7 @@
 const REPO = "admlyz5858/remo";
 const DATA_URL = "dashboard.json";
 const SLOTS = { facts: [9, 15], money: [11, 17] };
-let DATA = null, TAB = "queue";
+let DATA = null, TAB = "queue", PRODUCING = [];
 
 function nextSlotIso(videos, mode, nowMs) {
   const slots = SLOTS[mode] || [9, 15];
@@ -34,9 +34,21 @@ function render() {
       <div class="text-sm mt-1">${vids.length} video · ${views.toLocaleString("tr-TR")} izlenme</div></a>`;
   }).join("");
 
+  const producingHtml = (TAB === "queue" ? PRODUCING : []).map((r) => {
+    const mins = Math.max(0, Math.round((Date.now() - Date.parse(r.created_at)) / 60000));
+    const trig = r.event === "schedule" ? "otomatik" : "manuel";
+    return `<div class="bg-zinc-900 rounded-xl p-3 flex gap-3 items-center" style="border:1px solid #f59e0b66">
+      <div class="w-20 h-12 rounded bg-zinc-800 flex items-center justify-center text-2xl animate-pulse">🔄</div>
+      <div class="flex-1 min-w-0">
+        <div class="font-semibold">Üretiliyor…</div>
+        <div class="text-xs text-zinc-400">${trig} · ${mins} dk önce başladı</div>
+        <div class="mt-1"><a href="${esc(r.html_url)}" target="_blank" class="text-xs text-sky-400">çalıştırmayı aç</a></div>
+      </div></div>`;
+  }).join("");
+
   const vids = DATA.videos.filter((v) => TAB === "queue" ? (v.status === "scheduled" || v.status === "pending") : v.status === "published")
     .sort((a, b) => TAB === "queue" ? (Date.parse(a.publish_at || 0) - Date.parse(b.publish_at || 0)) : ((b.views || 0) - (a.views || 0)));
-  document.getElementById("list").innerHTML = vids.map((v) => {
+  const listHtml = vids.map((v) => {
     const c = DATA.channels[v.mode] || {};
     const right = TAB === "queue"
       ? `<span class="badge s-${v.status}">${v.status}</span> <span class="text-xs text-zinc-400">⏰ ${fmt(v.publish_at)}</span>`
@@ -48,18 +60,39 @@ function render() {
         <div class="text-xs" style="color:${c.accent || '#aaa'}">${esc(c.name || v.mode)}</div>
         <div class="mt-1">${right} <a href="${esc(v.url)}" target="_blank" class="text-xs text-sky-400 ml-2">aç</a></div>
       </div></div>`;
-  }).join("") || `<div class="text-zinc-500 text-sm">Liste boş.</div>`;
+  }).join("");
+  document.getElementById("list").innerHTML = (producingHtml + listHtml) || `<div class="text-zinc-500 text-sm">Liste boş.</div>`;
   document.querySelectorAll(".tab").forEach((t) => t.classList.toggle("active", t.dataset.tab === TAB));
+}
+
+// Live "in production" runs from GitHub Actions (needs the browser PAT; remo is private).
+async function loadProducing() {
+  const pat = localStorage.getItem("ghpat");
+  if (!pat) { PRODUCING = []; return; }
+  const headers = { Authorization: "Bearer " + pat, Accept: "application/vnd.github+json" };
+  try {
+    const reqs = ["in_progress", "queued"].map((s) =>
+      fetch(`https://api.github.com/repos/${REPO}/actions/runs?status=${s}&per_page=30`, { headers }));
+    const runs = [];
+    for (const p of await Promise.all(reqs)) {
+      if (p.ok) { const d = await p.json(); runs.push(...(d.workflow_runs || [])); }
+    }
+    PRODUCING = runs
+      .filter((r) => r.name === "produce" || (r.path || "").endsWith("produce.yml"))
+      .sort((a, b) => Date.parse(a.created_at) - Date.parse(b.created_at));
+  } catch (_) { PRODUCING = []; }
 }
 
 async function load() {
   try {
     const r = await fetch(DATA_URL + "?t=" + Date.now());
     if (!r.ok) throw new Error(r.status);
-    DATA = await r.json(); render();
+    DATA = await r.json();
   } catch (e) {
     document.getElementById("status").textContent = "🔴 bağlanıyor… birazdan tekrar";
   }
+  await loadProducing();
+  render();
 }
 
 document.querySelectorAll(".tab").forEach((t) => t.addEventListener("click", () => { TAB = t.dataset.tab; render(); }));
@@ -82,7 +115,7 @@ document.getElementById("produce").addEventListener("click", async () => {
       headers: { Authorization: "Bearer " + pat, Accept: "application/vnd.github+json" },
       body: JSON.stringify({ ref: "master", inputs: { mode, topic, publish_at } }),
     });
-    if (r.status === 204) msg.textContent = `✅ Üretiliyor (${mode}) → ${fmt(publish_at)} slotuna planlanacak. ~8 dk.`;
+    if (r.status === 204) { msg.textContent = `✅ Üretiliyor (${mode}) → ${fmt(publish_at)} slotuna planlanacak. ~8 dk.`; setTimeout(load, 4000); }
     else msg.textContent = "❌ Hata: " + r.status + " (token yetkisi?)";
   } catch (e) { msg.textContent = "❌ " + e.message; }
 });
