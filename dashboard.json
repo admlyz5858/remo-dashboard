@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T15:42:14.942Z",
+  "updated_at": "2026-06-14T16:31:05.063Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -119,8 +119,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T09:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 965,
-      "likes": 15,
+      "views": 1037,
+      "likes": 14,
       "thumbnail": "https://img.youtube.com/vi/XpIV_YYMZN0/hqdefault.jpg"
     },
     {
@@ -131,7 +131,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T15:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/1ZO4DtSgAZo/hqdefault.jpg"
     },
@@ -155,7 +155,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T11:00:00Z",
       "runId": "run-20260613-091014",
-      "views": 52,
+      "views": 45,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/5p9j5fyVuLY/hqdefault.jpg"
     },
@@ -227,7 +227,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-122335",
-      "views": 63,
+      "views": 50,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/52oLd5ptMe8/hqdefault.jpg"
     },
@@ -239,7 +239,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-161100",
-      "views": 243,
+      "views": 230,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/4hNG3GKb91w/hqdefault.jpg"
     },
@@ -287,15 +287,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260614-130027",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/HPAgjrc8NTU/hqdefault.jpg"
+    },
+    {
+      "video_id": "RNJuSq36uMs",
+      "url": "https://youtu.be/RNJuSq36uMs",
+      "mode": "facts",
+      "topic": "The Immortal Jellyfish",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260614-161822",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/RNJuSq36uMs/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 10,
-    "published": 7,
-    "today": 3,
-    "total_views": 1772
+    "published": 8,
+    "today": 4,
+    "total_views": 1813
   }
 }
