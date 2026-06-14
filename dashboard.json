@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T20:26:16.639Z",
+  "updated_at": "2026-06-14T20:31:36.421Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -16,54 +16,6 @@
   },
   "videos": [
     {
-      "video_id": "xuUGDn7v3CY",
-      "url": "https://youtu.be/xuUGDn7v3CY",
-      "mode": "facts",
-      "topic": "Octopuses",
-      "status": "pending",
-      "publish_at": null,
-      "runId": "run-20260611-132515",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/xuUGDn7v3CY/hqdefault.jpg"
-    },
-    {
-      "video_id": "DwYriJS62AU",
-      "url": "https://youtu.be/DwYriJS62AU",
-      "mode": "facts",
-      "topic": "Bananas",
-      "status": "pending",
-      "publish_at": null,
-      "runId": "run-20260611-172411",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/DwYriJS62AU/hqdefault.jpg"
-    },
-    {
-      "video_id": "qYR3ZunoBOg",
-      "url": "https://youtu.be/qYR3ZunoBOg",
-      "mode": "facts",
-      "topic": "Pineapples",
-      "status": "pending",
-      "publish_at": null,
-      "runId": "run-20260611-192428",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/qYR3ZunoBOg/hqdefault.jpg"
-    },
-    {
-      "video_id": "uCsSVMadrzs",
-      "url": "https://youtu.be/uCsSVMadrzs",
-      "mode": "facts",
-      "topic": "Kangaroos",
-      "status": "pending",
-      "publish_at": null,
-      "runId": "run-20260611-200542",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/uCsSVMadrzs/hqdefault.jpg"
-    },
-    {
       "video_id": "dFdeX6Z4PbY",
       "url": "https://youtu.be/dFdeX6Z4PbY",
       "mode": "money",
@@ -74,18 +26,6 @@
       "views": 2,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/dFdeX6Z4PbY/hqdefault.jpg"
-    },
-    {
-      "video_id": "hds2aLzl6RE",
-      "url": "https://youtu.be/hds2aLzl6RE",
-      "mode": "facts",
-      "topic": "Axolotls",
-      "status": "pending",
-      "publish_at": null,
-      "runId": "run-20260612-113003",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/hds2aLzl6RE/hqdefault.jpg"
     },
     {
       "video_id": "5E4-lWFUS3U",
