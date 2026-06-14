@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T19:24:55Z",
+  "updated_at": "2026-06-14T17:08:07.911Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -107,7 +107,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260612-191139",
-      "views": 92,
+      "views": 93,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/5E4-lWFUS3U/hqdefault.jpg"
     },
@@ -119,8 +119,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T09:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 0,
-      "likes": 0,
+      "views": 1114,
+      "likes": 14,
       "thumbnail": "https://img.youtube.com/vi/XpIV_YYMZN0/hqdefault.jpg"
     },
     {
@@ -155,7 +155,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T11:00:00Z",
       "runId": "run-20260613-091014",
-      "views": 0,
+      "views": 52,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/5p9j5fyVuLY/hqdefault.jpg"
     },
@@ -206,12 +206,108 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/JMJnU9-Mjas/hqdefault.jpg"
+    },
+    {
+      "video_id": "nQSwEx0iMWE",
+      "url": "https://youtu.be/nQSwEx0iMWE",
+      "mode": "facts",
+      "topic": "Sea Cucumbers",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260613-112014",
+      "views": 318,
+      "likes": 2,
+      "thumbnail": "https://img.youtube.com/vi/nQSwEx0iMWE/hqdefault.jpg"
+    },
+    {
+      "video_id": "52oLd5ptMe8",
+      "url": "https://youtu.be/52oLd5ptMe8",
+      "mode": "money",
+      "topic": "The Psychology of Subscription Services",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260613-122335",
+      "views": 63,
+      "likes": 2,
+      "thumbnail": "https://img.youtube.com/vi/52oLd5ptMe8/hqdefault.jpg"
+    },
+    {
+      "video_id": "4hNG3GKb91w",
+      "url": "https://youtu.be/4hNG3GKb91w",
+      "mode": "facts",
+      "topic": "Peacock Spiders",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260613-161100",
+      "views": 230,
+      "likes": 2,
+      "thumbnail": "https://img.youtube.com/vi/4hNG3GKb91w/hqdefault.jpg"
+    },
+    {
+      "video_id": "d3qmDQUF8XQ",
+      "url": "https://youtu.be/d3qmDQUF8XQ",
+      "mode": "money",
+      "topic": "The Psychology of Sunk Costs",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260613-181453",
+      "views": 35,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/d3qmDQUF8XQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "VNCD26uQRm0",
+      "url": "https://youtu.be/VNCD26uQRm0",
+      "mode": "money",
+      "topic": "Money and Emotions",
+      "status": "scheduled",
+      "publish_at": "2026-06-16T11:00:00.000Z",
+      "runId": "run-20260614-112737",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/VNCD26uQRm0/hqdefault.jpg"
+    },
+    {
+      "video_id": "RgamgFxTqyQ",
+      "url": "https://youtu.be/RgamgFxTqyQ",
+      "mode": "money",
+      "topic": "The Psychology of 'Free'",
+      "status": "scheduled",
+      "publish_at": "2026-06-16T17:00:00.000Z",
+      "runId": "run-20260614-113655",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/RgamgFxTqyQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "HPAgjrc8NTU",
+      "url": "https://youtu.be/HPAgjrc8NTU",
+      "mode": "money",
+      "topic": "The Psychology of Financial Windfalls",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260614-130027",
+      "views": 1,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/HPAgjrc8NTU/hqdefault.jpg"
+    },
+    {
+      "video_id": "RNJuSq36uMs",
+      "url": "https://youtu.be/RNJuSq36uMs",
+      "mode": "facts",
+      "topic": "The Immortal Jellyfish",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260614-161822",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/RNJuSq36uMs/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 8,
-    "published": 2,
-    "today": 8,
-    "total_views": 94
+    "scheduled": 10,
+    "published": 8,
+    "today": 4,
+    "total_views": 1908
   }
 }
