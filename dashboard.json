@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T11:47:36.798Z",
+  "updated_at": "2026-06-14T13:06:12.410Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -119,8 +119,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T09:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 527,
-      "likes": 8,
+      "views": 685,
+      "likes": 11,
       "thumbnail": "https://img.youtube.com/vi/XpIV_YYMZN0/hqdefault.jpg"
     },
     {
@@ -278,12 +278,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/RgamgFxTqyQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "HPAgjrc8NTU",
+      "url": "https://youtu.be/HPAgjrc8NTU",
+      "mode": "money",
+      "topic": "The Psychology of Financial Windfalls",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260614-130027",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/HPAgjrc8NTU/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 10,
-    "published": 6,
-    "today": 2,
-    "total_views": 1262
+    "published": 7,
+    "today": 3,
+    "total_views": 1420
   }
 }
