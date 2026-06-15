@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T15:32:56.778Z",
+  "updated_at": "2026-06-15T16:20:47.112Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -47,7 +47,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T09:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 1354,
+      "views": 1350,
       "likes": 19,
       "thumbnail": "https://img.youtube.com/vi/XpIV_YYMZN0/hqdefault.jpg"
     },
@@ -95,7 +95,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T17:00:00Z",
       "runId": "run-20260613-091004",
-      "views": 49,
+      "views": 56,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/QmQiyYPgPX0/hqdefault.jpg"
     },
@@ -107,7 +107,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T11:00:00Z",
       "runId": "run-20260613-091018",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/UXOz5sYEsfI/hqdefault.jpg"
     },
@@ -215,7 +215,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260614-130027",
-      "views": 17,
+      "views": 18,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/HPAgjrc8NTU/hqdefault.jpg"
     },
@@ -251,15 +251,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-152057",
+      "views": 242,
+      "likes": 3,
+      "thumbnail": "https://img.youtube.com/vi/oTRlRjuuvfc/hqdefault.jpg"
+    },
+    {
+      "video_id": "mqtnaHrea5Q",
+      "url": "https://youtu.be/mqtnaHrea5Q",
+      "mode": "money",
+      "topic": "The Psychology of Round Numbers in Pricing",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260615-161539",
       "views": 0,
       "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/oTRlRjuuvfc/hqdefault.jpg"
+      "thumbnail": "https://img.youtube.com/vi/mqtnaHrea5Q/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 10,
-    "published": 10,
-    "today": 1,
-    "total_views": 2298
+    "published": 11,
+    "today": 2,
+    "total_views": 2545
   }
 }
