@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T17:08:07.911Z",
+  "updated_at": "2026-06-15T19:09:07.740Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -16,66 +16,6 @@
   },
   "videos": [
     {
-      "video_id": "xuUGDn7v3CY",
-      "url": "https://youtu.be/xuUGDn7v3CY",
-      "mode": "facts",
-      "topic": "Octopuses",
-      "status": "pending",
-      "publish_at": null,
-      "runId": "run-20260611-132515",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/xuUGDn7v3CY/hqdefault.jpg"
-    },
-    {
-      "video_id": "cxn-MogZH_Y",
-      "url": "https://youtu.be/cxn-MogZH_Y",
-      "mode": "facts",
-      "topic": "Honey",
-      "status": "pending",
-      "publish_at": null,
-      "runId": "run-20260611-171014",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/cxn-MogZH_Y/hqdefault.jpg"
-    },
-    {
-      "video_id": "DwYriJS62AU",
-      "url": "https://youtu.be/DwYriJS62AU",
-      "mode": "facts",
-      "topic": "Bananas",
-      "status": "pending",
-      "publish_at": null,
-      "runId": "run-20260611-172411",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/DwYriJS62AU/hqdefault.jpg"
-    },
-    {
-      "video_id": "qYR3ZunoBOg",
-      "url": "https://youtu.be/qYR3ZunoBOg",
-      "mode": "facts",
-      "topic": "Pineapples",
-      "status": "pending",
-      "publish_at": null,
-      "runId": "run-20260611-192428",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/qYR3ZunoBOg/hqdefault.jpg"
-    },
-    {
-      "video_id": "uCsSVMadrzs",
-      "url": "https://youtu.be/uCsSVMadrzs",
-      "mode": "facts",
-      "topic": "Kangaroos",
-      "status": "pending",
-      "publish_at": null,
-      "runId": "run-20260611-200542",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/uCsSVMadrzs/hqdefault.jpg"
-    },
-    {
       "video_id": "dFdeX6Z4PbY",
       "url": "https://youtu.be/dFdeX6Z4PbY",
       "mode": "money",
@@ -86,18 +26,6 @@
       "views": 2,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/dFdeX6Z4PbY/hqdefault.jpg"
-    },
-    {
-      "video_id": "hds2aLzl6RE",
-      "url": "https://youtu.be/hds2aLzl6RE",
-      "mode": "facts",
-      "topic": "Axolotls",
-      "status": "pending",
-      "publish_at": null,
-      "runId": "run-20260612-113003",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/hds2aLzl6RE/hqdefault.jpg"
     },
     {
       "video_id": "5E4-lWFUS3U",
@@ -119,8 +47,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T09:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 1114,
-      "likes": 14,
+      "views": 1350,
+      "likes": 19,
       "thumbnail": "https://img.youtube.com/vi/XpIV_YYMZN0/hqdefault.jpg"
     },
     {
@@ -131,8 +59,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T15:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 0,
-      "likes": 0,
+      "views": 64,
+      "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/1ZO4DtSgAZo/hqdefault.jpg"
     },
     {
@@ -143,7 +71,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T09:00:00Z",
       "runId": "run-20260613-090959",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/MuwcHP6pKNg/hqdefault.jpg"
     },
@@ -155,7 +83,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T11:00:00Z",
       "runId": "run-20260613-091014",
-      "views": 52,
+      "views": 51,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/5p9j5fyVuLY/hqdefault.jpg"
     },
@@ -167,7 +95,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T17:00:00Z",
       "runId": "run-20260613-091004",
-      "views": 0,
+      "views": 60,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/QmQiyYPgPX0/hqdefault.jpg"
     },
@@ -179,7 +107,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T11:00:00Z",
       "runId": "run-20260613-091018",
-      "views": 0,
+      "views": 18,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/UXOz5sYEsfI/hqdefault.jpg"
     },
@@ -191,7 +119,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T17:00:00Z",
       "runId": "run-20260613-091010",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ILRzREsiIPo/hqdefault.jpg"
     },
@@ -203,8 +131,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T15:00:00Z",
       "runId": "run-20260613-105716",
-      "views": 0,
-      "likes": 0,
+      "views": 24,
+      "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/JMJnU9-Mjas/hqdefault.jpg"
     },
     {
@@ -215,7 +143,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-112014",
-      "views": 318,
+      "views": 315,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/nQSwEx0iMWE/hqdefault.jpg"
     },
@@ -227,7 +155,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-122335",
-      "views": 63,
+      "views": 70,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/52oLd5ptMe8/hqdefault.jpg"
     },
@@ -239,7 +167,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-161100",
-      "views": 230,
+      "views": 231,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/4hNG3GKb91w/hqdefault.jpg"
     },
@@ -251,7 +179,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-181453",
-      "views": 35,
+      "views": 43,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/d3qmDQUF8XQ/hqdefault.jpg"
     },
@@ -287,7 +215,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260614-130027",
-      "views": 1,
+      "views": 17,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/HPAgjrc8NTU/hqdefault.jpg"
     },
@@ -299,15 +227,63 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260614-161822",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/RNJuSq36uMs/hqdefault.jpg"
+    },
+    {
+      "video_id": "26PT_O5ZVKI",
+      "url": "https://youtu.be/26PT_O5ZVKI",
+      "mode": "money",
+      "topic": "The Psychology of Gift Cards",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260614-181824",
+      "views": 1,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/26PT_O5ZVKI/hqdefault.jpg"
+    },
+    {
+      "video_id": "oTRlRjuuvfc",
+      "url": "https://youtu.be/oTRlRjuuvfc",
+      "mode": "facts",
+      "topic": "The Dancing Plague of 1518",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260615-152057",
+      "views": 242,
+      "likes": 3,
+      "thumbnail": "https://img.youtube.com/vi/oTRlRjuuvfc/hqdefault.jpg"
+    },
+    {
+      "video_id": "mqtnaHrea5Q",
+      "url": "https://youtu.be/mqtnaHrea5Q",
+      "mode": "money",
+      "topic": "The Psychology of Round Numbers in Pricing",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260615-161539",
+      "views": 41,
+      "likes": 2,
+      "thumbnail": "https://img.youtube.com/vi/mqtnaHrea5Q/hqdefault.jpg"
+    },
+    {
+      "video_id": "ZNimkFP8mhU",
+      "url": "https://youtu.be/ZNimkFP8mhU",
+      "mode": "facts",
+      "topic": "The Venus Flytrap",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260615-190204",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZNimkFP8mhU/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 10,
-    "published": 8,
-    "today": 4,
-    "total_views": 1908
+    "published": 12,
+    "today": 3,
+    "total_views": 2627
   }
 }
