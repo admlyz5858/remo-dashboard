@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T19:09:07.740Z",
+  "updated_at": "2026-06-15T20:34:30.419Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -47,7 +47,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T09:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 1350,
+      "views": 1353,
       "likes": 19,
       "thumbnail": "https://img.youtube.com/vi/XpIV_YYMZN0/hqdefault.jpg"
     },
@@ -71,7 +71,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T09:00:00Z",
       "runId": "run-20260613-090959",
-      "views": 1,
+      "views": 8,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/MuwcHP6pKNg/hqdefault.jpg"
     },
@@ -95,7 +95,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T17:00:00Z",
       "runId": "run-20260613-091004",
-      "views": 60,
+      "views": 58,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/QmQiyYPgPX0/hqdefault.jpg"
     },
@@ -107,7 +107,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T11:00:00Z",
       "runId": "run-20260613-091018",
-      "views": 18,
+      "views": 20,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/UXOz5sYEsfI/hqdefault.jpg"
     },
@@ -119,8 +119,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T17:00:00Z",
       "runId": "run-20260613-091010",
-      "views": 3,
-      "likes": 0,
+      "views": 40,
+      "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/ILRzREsiIPo/hqdefault.jpg"
     },
     {
@@ -179,7 +179,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-181453",
-      "views": 43,
+      "views": 45,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/d3qmDQUF8XQ/hqdefault.jpg"
     },
@@ -263,7 +263,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-161539",
-      "views": 41,
+      "views": 60,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/mqtnaHrea5Q/hqdefault.jpg"
     },
@@ -275,15 +275,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-190204",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZNimkFP8mhU/hqdefault.jpg"
+    },
+    {
+      "video_id": "yPh-icdWJr0",
+      "url": "https://youtu.be/yPh-icdWJr0",
+      "mode": "money",
+      "topic": "The Psychology of 'Pay Yourself First'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260615-202955",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/yPh-icdWJr0/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 10,
-    "published": 12,
-    "today": 3,
-    "total_views": 2627
+    "published": 13,
+    "today": 4,
+    "total_views": 2699
   }
 }
