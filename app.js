@@ -122,3 +122,23 @@ document.getElementById("produce").addEventListener("click", async () => {
 
 load();
 setInterval(load, 60000);
+
+// --- PWA: service worker + install button ---
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+}
+let deferredPrompt = null;
+const installBtn = document.getElementById("install");
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  if (installBtn) installBtn.classList.remove("hidden");
+});
+if (installBtn) installBtn.addEventListener("click", async () => {
+  if (!deferredPrompt) return;
+  deferredPrompt.prompt();
+  await deferredPrompt.userChoice;
+  deferredPrompt = null;
+  installBtn.classList.add("hidden");
+});
+window.addEventListener("appinstalled", () => { if (installBtn) installBtn.classList.add("hidden"); });
