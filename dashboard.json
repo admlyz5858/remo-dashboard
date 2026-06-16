@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T12:02:58.568Z",
+  "updated_at": "2026-06-16T14:27:05.373Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -59,7 +59,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T15:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 65,
+      "views": 70,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/1ZO4DtSgAZo/hqdefault.jpg"
     },
@@ -71,8 +71,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T09:00:00Z",
       "runId": "run-20260613-090959",
-      "views": 184,
-      "likes": 1,
+      "views": 224,
+      "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/MuwcHP6pKNg/hqdefault.jpg"
     },
     {
@@ -107,7 +107,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T11:00:00Z",
       "runId": "run-20260613-091018",
-      "views": 22,
+      "views": 24,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/UXOz5sYEsfI/hqdefault.jpg"
     },
@@ -131,7 +131,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T15:00:00Z",
       "runId": "run-20260613-105716",
-      "views": 46,
+      "views": 47,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/JMJnU9-Mjas/hqdefault.jpg"
     },
@@ -275,7 +275,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-190204",
-      "views": 31,
+      "views": 38,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZNimkFP8mhU/hqdefault.jpg"
     },
@@ -290,12 +290,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/yPh-icdWJr0/hqdefault.jpg"
+    },
+    {
+      "video_id": "Pt3hWz6xtmg",
+      "url": "https://youtu.be/Pt3hWz6xtmg",
+      "mode": "facts",
+      "topic": "Sea Otters",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260616-141607",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/Pt3hWz6xtmg/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 10,
-    "published": 13,
-    "today": 0,
-    "total_views": 2958
+    "published": 14,
+    "today": 1,
+    "total_views": 3013
   }
 }
