@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T21:09:29.198Z",
+  "updated_at": "2026-06-16T22:47:48.560Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -71,7 +71,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T09:00:00Z",
       "runId": "run-20260613-090959",
-      "views": 255,
+      "views": 268,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/MuwcHP6pKNg/hqdefault.jpg"
     },
@@ -95,7 +95,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T17:00:00Z",
       "runId": "run-20260613-091004",
-      "views": 65,
+      "views": 64,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/QmQiyYPgPX0/hqdefault.jpg"
     },
@@ -107,7 +107,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T11:00:00Z",
       "runId": "run-20260613-091018",
-      "views": 25,
+      "views": 28,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/UXOz5sYEsfI/hqdefault.jpg"
     },
@@ -119,7 +119,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T17:00:00Z",
       "runId": "run-20260613-091010",
-      "views": 51,
+      "views": 57,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/ILRzREsiIPo/hqdefault.jpg"
     },
@@ -203,7 +203,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-16T17:00:00.000Z",
       "runId": "run-20260614-113655",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/RgamgFxTqyQ/hqdefault.jpg"
     },
@@ -251,7 +251,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-152057",
-      "views": 242,
+      "views": 215,
       "likes": 3,
       "thumbnail": "https://img.youtube.com/vi/oTRlRjuuvfc/hqdefault.jpg"
     },
@@ -263,7 +263,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-161539",
-      "views": 75,
+      "views": 101,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/mqtnaHrea5Q/hqdefault.jpg"
     },
@@ -275,7 +275,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-190204",
-      "views": 48,
+      "views": 53,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZNimkFP8mhU/hqdefault.jpg"
     },
@@ -299,7 +299,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260616-141607",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/Pt3hWz6xtmg/hqdefault.jpg"
     },
@@ -311,7 +311,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260616-155159",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/-85xl78uE58/hqdefault.jpg"
     },
@@ -335,7 +335,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260616-185358",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/1p_eq1SoTTA/hqdefault.jpg"
     },
@@ -368,6 +368,6 @@
     "scheduled": 12,
     "published": 17,
     "today": 6,
-    "total_views": 3081
+    "total_views": 3110
   }
 }
