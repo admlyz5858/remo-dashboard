@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T15:57:04.833Z",
+  "updated_at": "2026-06-16T17:36:11.428Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -59,7 +59,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T15:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 70,
+      "views": 73,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/1ZO4DtSgAZo/hqdefault.jpg"
     },
@@ -71,7 +71,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T09:00:00Z",
       "runId": "run-20260613-090959",
-      "views": 227,
+      "views": 224,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/MuwcHP6pKNg/hqdefault.jpg"
     },
@@ -95,7 +95,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T17:00:00Z",
       "runId": "run-20260613-091004",
-      "views": 64,
+      "views": 65,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/QmQiyYPgPX0/hqdefault.jpg"
     },
@@ -107,7 +107,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T11:00:00Z",
       "runId": "run-20260613-091018",
-      "views": 23,
+      "views": 24,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/UXOz5sYEsfI/hqdefault.jpg"
     },
@@ -131,7 +131,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T15:00:00Z",
       "runId": "run-20260613-105716",
-      "views": 46,
+      "views": 47,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/JMJnU9-Mjas/hqdefault.jpg"
     },
@@ -263,7 +263,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-161539",
-      "views": 74,
+      "views": 73,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/mqtnaHrea5Q/hqdefault.jpg"
     },
@@ -275,7 +275,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-190204",
-      "views": 39,
+      "views": 41,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZNimkFP8mhU/hqdefault.jpg"
     },
@@ -299,7 +299,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260616-141607",
-      "views": 1,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/Pt3hWz6xtmg/hqdefault.jpg"
     },
@@ -314,12 +314,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/-85xl78uE58/hqdefault.jpg"
+    },
+    {
+      "video_id": "WZgqDJQ9oGU",
+      "url": "https://youtu.be/WZgqDJQ9oGU",
+      "mode": "money",
+      "topic": "The Psychology of 'Buy Now, Pay Later'",
+      "status": "scheduled",
+      "publish_at": "2026-06-17T11:00:00.000Z",
+      "runId": "run-20260616-173154",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/WZgqDJQ9oGU/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 10,
+    "scheduled": 11,
     "published": 15,
-    "today": 2,
-    "total_views": 3017
+    "today": 3,
+    "total_views": 3020
   }
 }
