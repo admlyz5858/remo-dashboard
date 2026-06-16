@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T06:24:10.441Z",
+  "updated_at": "2026-06-16T12:02:58.568Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -59,7 +59,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T15:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 64,
+      "views": 65,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/1ZO4DtSgAZo/hqdefault.jpg"
     },
@@ -71,8 +71,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T09:00:00Z",
       "runId": "run-20260613-090959",
-      "views": 177,
-      "likes": 0,
+      "views": 184,
+      "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/MuwcHP6pKNg/hqdefault.jpg"
     },
     {
@@ -95,7 +95,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T17:00:00Z",
       "runId": "run-20260613-091004",
-      "views": 63,
+      "views": 64,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/QmQiyYPgPX0/hqdefault.jpg"
     },
@@ -131,7 +131,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T15:00:00Z",
       "runId": "run-20260613-105716",
-      "views": 45,
+      "views": 46,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/JMJnU9-Mjas/hqdefault.jpg"
     },
@@ -155,7 +155,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-122335",
-      "views": 70,
+      "views": 71,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/52oLd5ptMe8/hqdefault.jpg"
     },
@@ -191,7 +191,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-16T11:00:00.000Z",
       "runId": "run-20260614-112737",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/VNCD26uQRm0/hqdefault.jpg"
     },
@@ -275,7 +275,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-190204",
-      "views": 27,
+      "views": 31,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZNimkFP8mhU/hqdefault.jpg"
     },
@@ -296,6 +296,6 @@
     "scheduled": 10,
     "published": 13,
     "today": 0,
-    "total_views": 2942
+    "total_views": 2958
   }
 }
