@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T14:34:51.668Z",
+  "updated_at": "2026-06-16T15:57:04.833Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -71,7 +71,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T09:00:00Z",
       "runId": "run-20260613-090959",
-      "views": 224,
+      "views": 227,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/MuwcHP6pKNg/hqdefault.jpg"
     },
@@ -107,7 +107,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T11:00:00Z",
       "runId": "run-20260613-091018",
-      "views": 24,
+      "views": 23,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/UXOz5sYEsfI/hqdefault.jpg"
     },
@@ -131,7 +131,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T15:00:00Z",
       "runId": "run-20260613-105716",
-      "views": 47,
+      "views": 46,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/JMJnU9-Mjas/hqdefault.jpg"
     },
@@ -263,7 +263,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-161539",
-      "views": 73,
+      "views": 74,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/mqtnaHrea5Q/hqdefault.jpg"
     },
@@ -275,7 +275,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-190204",
-      "views": 38,
+      "views": 39,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZNimkFP8mhU/hqdefault.jpg"
     },
@@ -299,15 +299,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260616-141607",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/Pt3hWz6xtmg/hqdefault.jpg"
+    },
+    {
+      "video_id": "-85xl78uE58",
+      "url": "https://youtu.be/-85xl78uE58",
+      "mode": "money",
+      "topic": "The Psychology of 'Pain of Paying'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260616-155159",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/-85xl78uE58/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 10,
-    "published": 14,
-    "today": 1,
-    "total_views": 3013
+    "published": 15,
+    "today": 2,
+    "total_views": 3017
   }
 }
