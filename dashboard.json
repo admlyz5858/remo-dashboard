@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T17:53:56.025Z",
+  "updated_at": "2026-06-17T19:32:42.802Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -323,7 +323,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-17T11:00:00.000Z",
       "runId": "run-20260616-173154",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/WZgqDJQ9oGU/hqdefault.jpg"
     },
@@ -383,7 +383,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260617-125533",
-      "views": 746,
+      "views": 963,
       "likes": 24,
       "thumbnail": "https://img.youtube.com/vi/hcNrlEKeESU/hqdefault.jpg"
     },
@@ -410,12 +410,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZlrYjdw-TIM/hqdefault.jpg"
+    },
+    {
+      "video_id": "5ZDgR52oO1Q",
+      "url": "https://youtu.be/5ZDgR52oO1Q",
+      "mode": "money",
+      "topic": "The Psychology of 'Mental Accounting'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260617-192837",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/5ZDgR52oO1Q/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 13,
-    "published": 20,
-    "today": 4,
-    "total_views": 3900
+    "published": 21,
+    "today": 5,
+    "total_views": 4118
   }
 }
