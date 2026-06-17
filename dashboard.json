@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T11:02:18.425Z",
+  "updated_at": "2026-06-17T11:32:08.185Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -362,12 +362,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/QWAf8kCtC94/hqdefault.jpg"
+    },
+    {
+      "video_id": "enCKJRYW5F0",
+      "url": "https://youtu.be/enCKJRYW5F0",
+      "mode": "money",
+      "topic": "The Psychology of 'Small Wins' in Saving Money",
+      "status": "scheduled",
+      "publish_at": "2026-06-18T17:00:00.000Z",
+      "runId": "run-20260617-112830",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/enCKJRYW5F0/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 12,
+    "scheduled": 13,
     "published": 17,
-    "today": 0,
+    "today": 1,
     "total_views": 3136
   }
 }
