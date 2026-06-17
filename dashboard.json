@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T13:02:47.237Z",
+  "updated_at": "2026-06-17T14:30:41.462Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -323,7 +323,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-17T11:00:00.000Z",
       "runId": "run-20260616-173154",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/WZgqDJQ9oGU/hqdefault.jpg"
     },
@@ -383,15 +383,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260617-125533",
+      "views": 149,
+      "likes": 6,
+      "thumbnail": "https://img.youtube.com/vi/hcNrlEKeESU/hqdefault.jpg"
+    },
+    {
+      "video_id": "3q96wI5mRqo",
+      "url": "https://youtu.be/3q96wI5mRqo",
+      "mode": "money",
+      "topic": "The Psychology of 'Decoy Pricing'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260617-142633",
       "views": 0,
       "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/hcNrlEKeESU/hqdefault.jpg"
+      "thumbnail": "https://img.youtube.com/vi/3q96wI5mRqo/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 13,
-    "published": 18,
-    "today": 2,
-    "total_views": 3137
+    "published": 19,
+    "today": 3,
+    "total_views": 3289
   }
 }
