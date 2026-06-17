@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T11:36:22.435Z",
+  "updated_at": "2026-06-17T13:02:47.237Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -131,7 +131,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T15:00:00Z",
       "runId": "run-20260613-105716",
-      "views": 48,
+      "views": 52,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/JMJnU9-Mjas/hqdefault.jpg"
     },
@@ -275,7 +275,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-190204",
-      "views": 58,
+      "views": 59,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZNimkFP8mhU/hqdefault.jpg"
     },
@@ -335,7 +335,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260616-185358",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/1p_eq1SoTTA/hqdefault.jpg"
     },
@@ -374,12 +374,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/enCKJRYW5F0/hqdefault.jpg"
+    },
+    {
+      "video_id": "hcNrlEKeESU",
+      "url": "https://youtu.be/hcNrlEKeESU",
+      "mode": "facts",
+      "topic": "The Pistol Shrimp",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260617-125533",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/hcNrlEKeESU/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 13,
-    "published": 17,
-    "today": 1,
-    "total_views": 3131
+    "published": 18,
+    "today": 2,
+    "total_views": 3137
   }
 }
