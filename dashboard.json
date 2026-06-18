@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T13:56:12.676Z",
+  "updated_at": "2026-06-18T14:13:34.584Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -431,15 +431,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260618-123039",
-      "views": 72,
+      "views": 97,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/KgKqRqeugEY/hqdefault.jpg"
+    },
+    {
+      "video_id": "bEIjMRS93NI",
+      "url": "https://youtu.be/bEIjMRS93NI",
+      "mode": "money",
+      "topic": "The Psychology of 'Found Money'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260618-140934",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/bEIjMRS93NI/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 13,
-    "published": 22,
-    "today": 1,
-    "total_views": 4314
+    "published": 23,
+    "today": 2,
+    "total_views": 4339
   }
 }
