@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T19:15:41.646Z",
+  "updated_at": "2026-06-18T19:39:53.995Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -275,7 +275,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-190204",
-      "views": 67,
+      "views": 65,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZNimkFP8mhU/hqdefault.jpg"
     },
@@ -431,7 +431,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260618-123039",
-      "views": 489,
+      "views": 509,
       "likes": 6,
       "thumbnail": "https://img.youtube.com/vi/KgKqRqeugEY/hqdefault.jpg"
     },
@@ -446,12 +446,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/bEIjMRS93NI/hqdefault.jpg"
+    },
+    {
+      "video_id": "_m3FakFnt6E",
+      "url": "https://youtu.be/_m3FakFnt6E",
+      "mode": "money",
+      "topic": "The Psychology of 'Invisible Money' (Digital Spending)",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260618-193601",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/_m3FakFnt6E/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 13,
-    "published": 23,
-    "today": 2,
-    "total_views": 4738
+    "published": 24,
+    "today": 3,
+    "total_views": 4756
   }
 }
