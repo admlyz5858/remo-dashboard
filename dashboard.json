@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T19:24:38.257Z",
+  "updated_at": "2026-06-19T20:12:30.084Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -458,12 +458,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/_m3FakFnt6E/hqdefault.jpg"
+    },
+    {
+      "video_id": "9cw3zgbO0Mo",
+      "url": "https://youtu.be/9cw3zgbO0Mo",
+      "mode": "money",
+      "topic": "The Psychology of 'The Endowment Effect' in Money",
+      "status": "scheduled",
+      "publish_at": "2026-06-20T11:00:00Z",
+      "runId": "run-20260619-200846",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/9cw3zgbO0Mo/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 13,
+    "scheduled": 14,
     "published": 24,
-    "today": 0,
+    "today": 1,
     "total_views": 5460
   }
 }
