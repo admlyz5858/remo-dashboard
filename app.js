@@ -1,10 +1,10 @@
 const REPO = "admlyz5858/remo";
 const DATA_URL = "dashboard.json";
-const SLOTS = { facts: [9, 15], money: [11, 17] };
+const SLOTS = { facts: [9], money: [11] };
 let DATA = null, TAB = "queue", PRODUCING = [];
 
 function nextSlotIso(videos, mode, nowMs) {
-  const slots = SLOTS[mode] || [9, 15];
+  const slots = SLOTS[mode] || [9];
   const sched = (videos || []).filter((v) => v.mode === mode && v.publish_at).map((v) => Date.parse(v.publish_at)).filter((n) => !isNaN(n));
   let after = nowMs; if (sched.length) after = Math.max(after, Math.max(...sched));
   const d = new Date(after);
