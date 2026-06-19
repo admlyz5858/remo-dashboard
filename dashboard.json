@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T19:09:07.740Z",
+  "updated_at": "2026-06-19T02:54:13.681Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -47,7 +47,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T09:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 1350,
+      "views": 1353,
       "likes": 19,
       "thumbnail": "https://img.youtube.com/vi/XpIV_YYMZN0/hqdefault.jpg"
     },
@@ -59,7 +59,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T15:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 64,
+      "views": 73,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/1ZO4DtSgAZo/hqdefault.jpg"
     },
@@ -71,8 +71,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T09:00:00Z",
       "runId": "run-20260613-090959",
-      "views": 1,
-      "likes": 0,
+      "views": 269,
+      "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/MuwcHP6pKNg/hqdefault.jpg"
     },
     {
@@ -95,7 +95,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T17:00:00Z",
       "runId": "run-20260613-091004",
-      "views": 60,
+      "views": 64,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/QmQiyYPgPX0/hqdefault.jpg"
     },
@@ -107,7 +107,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T11:00:00Z",
       "runId": "run-20260613-091018",
-      "views": 18,
+      "views": 32,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/UXOz5sYEsfI/hqdefault.jpg"
     },
@@ -119,8 +119,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T17:00:00Z",
       "runId": "run-20260613-091010",
-      "views": 3,
-      "likes": 0,
+      "views": 57,
+      "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/ILRzREsiIPo/hqdefault.jpg"
     },
     {
@@ -131,7 +131,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T15:00:00Z",
       "runId": "run-20260613-105716",
-      "views": 24,
+      "views": 53,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/JMJnU9-Mjas/hqdefault.jpg"
     },
@@ -155,7 +155,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-122335",
-      "views": 70,
+      "views": 72,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/52oLd5ptMe8/hqdefault.jpg"
     },
@@ -167,7 +167,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-161100",
-      "views": 231,
+      "views": 237,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/4hNG3GKb91w/hqdefault.jpg"
     },
@@ -179,7 +179,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-181453",
-      "views": 43,
+      "views": 44,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/d3qmDQUF8XQ/hqdefault.jpg"
     },
@@ -191,7 +191,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-16T11:00:00.000Z",
       "runId": "run-20260614-112737",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/VNCD26uQRm0/hqdefault.jpg"
     },
@@ -203,7 +203,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-16T17:00:00.000Z",
       "runId": "run-20260614-113655",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/RgamgFxTqyQ/hqdefault.jpg"
     },
@@ -215,7 +215,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260614-130027",
-      "views": 17,
+      "views": 19,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/HPAgjrc8NTU/hqdefault.jpg"
     },
@@ -239,7 +239,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260614-181824",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/26PT_O5ZVKI/hqdefault.jpg"
     },
@@ -251,7 +251,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-152057",
-      "views": 242,
+      "views": 215,
       "likes": 3,
       "thumbnail": "https://img.youtube.com/vi/oTRlRjuuvfc/hqdefault.jpg"
     },
@@ -263,7 +263,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-161539",
-      "views": 41,
+      "views": 101,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/mqtnaHrea5Q/hqdefault.jpg"
     },
@@ -275,15 +275,195 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-190204",
-      "views": 0,
+      "views": 69,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZNimkFP8mhU/hqdefault.jpg"
+    },
+    {
+      "video_id": "yPh-icdWJr0",
+      "url": "https://youtu.be/yPh-icdWJr0",
+      "mode": "money",
+      "topic": "The Psychology of 'Pay Yourself First'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260615-202955",
+      "views": 3,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/yPh-icdWJr0/hqdefault.jpg"
+    },
+    {
+      "video_id": "Pt3hWz6xtmg",
+      "url": "https://youtu.be/Pt3hWz6xtmg",
+      "mode": "facts",
+      "topic": "Sea Otters",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260616-141607",
+      "views": 4,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/Pt3hWz6xtmg/hqdefault.jpg"
+    },
+    {
+      "video_id": "-85xl78uE58",
+      "url": "https://youtu.be/-85xl78uE58",
+      "mode": "money",
+      "topic": "The Psychology of 'Pain of Paying'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260616-155159",
+      "views": 18,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/-85xl78uE58/hqdefault.jpg"
+    },
+    {
+      "video_id": "WZgqDJQ9oGU",
+      "url": "https://youtu.be/WZgqDJQ9oGU",
+      "mode": "money",
+      "topic": "The Psychology of 'Buy Now, Pay Later'",
+      "status": "scheduled",
+      "publish_at": "2026-06-17T11:00:00.000Z",
+      "runId": "run-20260616-173154",
+      "views": 14,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/WZgqDJQ9oGU/hqdefault.jpg"
+    },
+    {
+      "video_id": "1p_eq1SoTTA",
+      "url": "https://youtu.be/1p_eq1SoTTA",
+      "mode": "facts",
+      "topic": "The Mimic Octopus",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260616-185358",
+      "views": 8,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/1p_eq1SoTTA/hqdefault.jpg"
+    },
+    {
+      "video_id": "TcqT-_NQgxk",
+      "url": "https://youtu.be/TcqT-_NQgxk",
+      "mode": "money",
+      "topic": "The Psychology of 'Fear of Missing Out' (FOMO) in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260616-201511",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/TcqT-_NQgxk/hqdefault.jpg"
+    },
+    {
+      "video_id": "QWAf8kCtC94",
+      "url": "https://youtu.be/QWAf8kCtC94",
+      "mode": "money",
+      "topic": "The Psychology of Money Regret",
+      "status": "scheduled",
+      "publish_at": "2026-06-18T11:00:00Z",
+      "runId": "run-20260616-210059",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/QWAf8kCtC94/hqdefault.jpg"
+    },
+    {
+      "video_id": "enCKJRYW5F0",
+      "url": "https://youtu.be/enCKJRYW5F0",
+      "mode": "money",
+      "topic": "The Psychology of 'Small Wins' in Saving Money",
+      "status": "scheduled",
+      "publish_at": "2026-06-18T17:00:00.000Z",
+      "runId": "run-20260617-112830",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/enCKJRYW5F0/hqdefault.jpg"
+    },
+    {
+      "video_id": "hcNrlEKeESU",
+      "url": "https://youtu.be/hcNrlEKeESU",
+      "mode": "facts",
+      "topic": "The Pistol Shrimp",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260617-125533",
+      "views": 1031,
+      "likes": 23,
+      "thumbnail": "https://img.youtube.com/vi/hcNrlEKeESU/hqdefault.jpg"
+    },
+    {
+      "video_id": "3q96wI5mRqo",
+      "url": "https://youtu.be/3q96wI5mRqo",
+      "mode": "money",
+      "topic": "The Psychology of 'Decoy Pricing'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260617-142633",
+      "views": 44,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/3q96wI5mRqo/hqdefault.jpg"
+    },
+    {
+      "video_id": "ZlrYjdw-TIM",
+      "url": "https://youtu.be/ZlrYjdw-TIM",
+      "mode": "facts",
+      "topic": "The Immortal Hydra",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260617-174740",
+      "views": 2,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZlrYjdw-TIM/hqdefault.jpg"
+    },
+    {
+      "video_id": "5ZDgR52oO1Q",
+      "url": "https://youtu.be/5ZDgR52oO1Q",
+      "mode": "money",
+      "topic": "The Psychology of 'Mental Accounting'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260617-192837",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/5ZDgR52oO1Q/hqdefault.jpg"
+    },
+    {
+      "video_id": "KgKqRqeugEY",
+      "url": "https://youtu.be/KgKqRqeugEY",
+      "mode": "facts",
+      "topic": "The Bombardier Beetle",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260618-123039",
+      "views": 776,
+      "likes": 7,
+      "thumbnail": "https://img.youtube.com/vi/KgKqRqeugEY/hqdefault.jpg"
+    },
+    {
+      "video_id": "bEIjMRS93NI",
+      "url": "https://youtu.be/bEIjMRS93NI",
+      "mode": "money",
+      "topic": "The Psychology of 'Found Money'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260618-140934",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/bEIjMRS93NI/hqdefault.jpg"
+    },
+    {
+      "video_id": "_m3FakFnt6E",
+      "url": "https://youtu.be/_m3FakFnt6E",
+      "mode": "money",
+      "topic": "The Psychology of 'Invisible Money' (Digital Spending)",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260618-193601",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/_m3FakFnt6E/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 10,
-    "published": 12,
-    "today": 3,
-    "total_views": 2627
+    "scheduled": 13,
+    "published": 24,
+    "today": 0,
+    "total_views": 5027
   }
 }
