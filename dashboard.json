@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T02:54:13.681Z",
+  "updated_at": "2026-06-20T20:11:11.626Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -35,7 +35,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260612-191139",
-      "views": 93,
+      "views": 94,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/5E4-lWFUS3U/hqdefault.jpg"
     },
@@ -47,8 +47,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T09:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 1353,
-      "likes": 19,
+      "views": 1354,
+      "likes": 18,
       "thumbnail": "https://img.youtube.com/vi/XpIV_YYMZN0/hqdefault.jpg"
     },
     {
@@ -59,7 +59,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T15:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 73,
+      "views": 78,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/1ZO4DtSgAZo/hqdefault.jpg"
     },
@@ -71,7 +71,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T09:00:00Z",
       "runId": "run-20260613-090959",
-      "views": 269,
+      "views": 270,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/MuwcHP6pKNg/hqdefault.jpg"
     },
@@ -131,7 +131,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T15:00:00Z",
       "runId": "run-20260613-105716",
-      "views": 53,
+      "views": 55,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/JMJnU9-Mjas/hqdefault.jpg"
     },
@@ -143,7 +143,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-112014",
-      "views": 315,
+      "views": 316,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/nQSwEx0iMWE/hqdefault.jpg"
     },
@@ -167,7 +167,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-161100",
-      "views": 237,
+      "views": 241,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/4hNG3GKb91w/hqdefault.jpg"
     },
@@ -227,7 +227,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260614-161822",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/RNJuSq36uMs/hqdefault.jpg"
     },
@@ -251,7 +251,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-152057",
-      "views": 215,
+      "views": 216,
       "likes": 3,
       "thumbnail": "https://img.youtube.com/vi/oTRlRjuuvfc/hqdefault.jpg"
     },
@@ -263,8 +263,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-161539",
-      "views": 101,
-      "likes": 2,
+      "views": 102,
+      "likes": 3,
       "thumbnail": "https://img.youtube.com/vi/mqtnaHrea5Q/hqdefault.jpg"
     },
     {
@@ -275,7 +275,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-190204",
-      "views": 69,
+      "views": 70,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZNimkFP8mhU/hqdefault.jpg"
     },
@@ -299,7 +299,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260616-141607",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/Pt3hWz6xtmg/hqdefault.jpg"
     },
@@ -311,7 +311,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260616-155159",
-      "views": 18,
+      "views": 20,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/-85xl78uE58/hqdefault.jpg"
     },
@@ -383,7 +383,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260617-125533",
-      "views": 1031,
+      "views": 1032,
       "likes": 23,
       "thumbnail": "https://img.youtube.com/vi/hcNrlEKeESU/hqdefault.jpg"
     },
@@ -431,8 +431,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260618-123039",
-      "views": 776,
-      "likes": 7,
+      "views": 1467,
+      "likes": 10,
       "thumbnail": "https://img.youtube.com/vi/KgKqRqeugEY/hqdefault.jpg"
     },
     {
@@ -458,12 +458,84 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/_m3FakFnt6E/hqdefault.jpg"
+    },
+    {
+      "video_id": "9cw3zgbO0Mo",
+      "url": "https://youtu.be/9cw3zgbO0Mo",
+      "mode": "money",
+      "topic": "The Psychology of 'The Endowment Effect' in Money",
+      "status": "scheduled",
+      "publish_at": "2026-06-20T11:00:00Z",
+      "runId": "run-20260619-200846",
+      "views": 2,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/9cw3zgbO0Mo/hqdefault.jpg"
+    },
+    {
+      "video_id": "zkxo479r-MA",
+      "url": "https://youtu.be/zkxo479r-MA",
+      "mode": "facts",
+      "topic": "The Pistol Shrimp",
+      "status": "scheduled",
+      "publish_at": "2026-06-20T09:00:00Z",
+      "runId": "run-20260619-200838",
+      "views": 429,
+      "likes": 2,
+      "thumbnail": "https://img.youtube.com/vi/zkxo479r-MA/hqdefault.jpg"
+    },
+    {
+      "video_id": "LRSeUyh5YUA",
+      "url": "https://youtu.be/LRSeUyh5YUA",
+      "mode": "facts",
+      "topic": "The Star-Nosed Mole",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260620-112235",
+      "views": 200,
+      "likes": 1,
+      "thumbnail": "https://img.youtube.com/vi/LRSeUyh5YUA/hqdefault.jpg"
+    },
+    {
+      "video_id": "6LxeKCFS_RI",
+      "url": "https://youtu.be/6LxeKCFS_RI",
+      "mode": "money",
+      "topic": "The Psychology of 'The Diderot Effect' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260620-113207",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/6LxeKCFS_RI/hqdefault.jpg"
+    },
+    {
+      "video_id": "d9S_2oMMwWY",
+      "url": "https://youtu.be/d9S_2oMMwWY",
+      "mode": "facts",
+      "topic": "The Immortal Lobster",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260620-161357",
+      "views": 96,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/d9S_2oMMwWY/hqdefault.jpg"
+    },
+    {
+      "video_id": "nELU0MXj4n8",
+      "url": "https://youtu.be/nELU0MXj4n8",
+      "mode": "money",
+      "topic": "The Psychology of 'The Pain of Paying'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260620-162421",
+      "views": 2,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/nELU0MXj4n8/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 13,
-    "published": 24,
-    "today": 0,
-    "total_views": 5027
+    "scheduled": 15,
+    "published": 28,
+    "today": 4,
+    "total_views": 6470
   }
 }
