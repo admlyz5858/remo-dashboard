@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T10:25:51.725Z",
+  "updated_at": "2026-06-20T11:35:37.875Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -431,7 +431,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260618-123039",
-      "views": 1355,
+      "views": 1357,
       "likes": 11,
       "thumbnail": "https://img.youtube.com/vi/KgKqRqeugEY/hqdefault.jpg"
     },
@@ -467,7 +467,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-20T11:00:00Z",
       "runId": "run-20260619-200846",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/9cw3zgbO0Mo/hqdefault.jpg"
     },
@@ -482,12 +482,36 @@
       "views": 10,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/zkxo479r-MA/hqdefault.jpg"
+    },
+    {
+      "video_id": "LRSeUyh5YUA",
+      "url": "https://youtu.be/LRSeUyh5YUA",
+      "mode": "facts",
+      "topic": "The Star-Nosed Mole",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260620-112235",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/LRSeUyh5YUA/hqdefault.jpg"
+    },
+    {
+      "video_id": "6LxeKCFS_RI",
+      "url": "https://youtu.be/6LxeKCFS_RI",
+      "mode": "money",
+      "topic": "The Psychology of 'The Diderot Effect' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260620-113207",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/6LxeKCFS_RI/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 15,
-    "published": 24,
-    "today": 0,
-    "total_views": 5638
+    "published": 26,
+    "today": 2,
+    "total_views": 5641
   }
 }
