@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T16:20:48.507Z",
+  "updated_at": "2026-06-20T16:28:13.964Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -431,7 +431,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260618-123039",
-      "views": 1428,
+      "views": 1437,
       "likes": 10,
       "thumbnail": "https://img.youtube.com/vi/KgKqRqeugEY/hqdefault.jpg"
     },
@@ -467,7 +467,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-20T11:00:00Z",
       "runId": "run-20260619-200846",
-      "views": 2,
+      "views": 67,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/9cw3zgbO0Mo/hqdefault.jpg"
     },
@@ -479,7 +479,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-20T09:00:00Z",
       "runId": "run-20260619-200838",
-      "views": 429,
+      "views": 430,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/zkxo479r-MA/hqdefault.jpg"
     },
@@ -506,12 +506,36 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/6LxeKCFS_RI/hqdefault.jpg"
+    },
+    {
+      "video_id": "d9S_2oMMwWY",
+      "url": "https://youtu.be/d9S_2oMMwWY",
+      "mode": "facts",
+      "topic": "The Immortal Lobster",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260620-161357",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/d9S_2oMMwWY/hqdefault.jpg"
+    },
+    {
+      "video_id": "nELU0MXj4n8",
+      "url": "https://youtu.be/nELU0MXj4n8",
+      "mode": "money",
+      "topic": "The Psychology of 'The Pain of Paying'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260620-162421",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/nELU0MXj4n8/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 15,
-    "published": 26,
-    "today": 2,
-    "total_views": 6323
+    "published": 28,
+    "today": 4,
+    "total_views": 6398
   }
 }
