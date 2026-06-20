@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T21:02:34.337Z",
+  "updated_at": "2026-06-20T21:04:13.350Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -263,7 +263,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-161539",
-      "views": 101,
+      "views": 102,
       "likes": 3,
       "thumbnail": "https://img.youtube.com/vi/mqtnaHrea5Q/hqdefault.jpg"
     },
@@ -407,7 +407,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260617-174740",
-      "views": 2,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZlrYjdw-TIM/hqdefault.jpg"
     },
@@ -515,7 +515,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260620-161357",
-      "views": 121,
+      "views": 123,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/d9S_2oMMwWY/hqdefault.jpg"
     },
@@ -542,12 +542,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/PPch4domx7I/hqdefault.jpg"
+    },
+    {
+      "video_id": "jdlCi8MfZDw",
+      "url": "https://youtu.be/jdlCi8MfZDw",
+      "mode": "facts",
+      "topic": "Flamingos",
+      "status": "scheduled",
+      "publish_at": "2026-06-21T09:00:00Z",
+      "runId": "run-20260620-205835",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/jdlCi8MfZDw/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 16,
+    "scheduled": 17,
     "published": 28,
-    "today": 5,
-    "total_views": 6628
+    "today": 6,
+    "total_views": 6630
   }
 }
