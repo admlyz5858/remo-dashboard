@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T15:45:25.867Z",
+  "updated_at": "2026-06-21T16:32:53.945Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -479,7 +479,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-20T09:00:00Z",
       "runId": "run-20260619-200838",
-      "views": 498,
+      "views": 500,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/zkxo479r-MA/hqdefault.jpg"
     },
@@ -491,7 +491,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260620-112235",
-      "views": 203,
+      "views": 202,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/LRSeUyh5YUA/hqdefault.jpg"
     },
@@ -539,7 +539,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-21T10:00:00Z",
       "runId": "run-20260620-205829",
-      "views": 113,
+      "views": 116,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/PPch4domx7I/hqdefault.jpg"
     },
@@ -551,8 +551,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-21T09:00:00Z",
       "runId": "run-20260620-205835",
-      "views": 566,
-      "likes": 4,
+      "views": 421,
+      "likes": 5,
       "thumbnail": "https://img.youtube.com/vi/jdlCi8MfZDw/hqdefault.jpg"
     },
     {
@@ -563,7 +563,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260621-114918",
-      "views": 271,
+      "views": 282,
       "likes": 3,
       "thumbnail": "https://img.youtube.com/vi/fcvSqnfdFfY/hqdefault.jpg"
     },
@@ -578,12 +578,24 @@
       "views": 8,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ViuTOzT7fbU/hqdefault.jpg"
+    },
+    {
+      "video_id": "3nHyoCgyqRY",
+      "url": "https://youtu.be/3nHyoCgyqRY",
+      "mode": "facts",
+      "topic": "The Bombardier Beetle",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260621-162717",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/3nHyoCgyqRY/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 17,
-    "published": 30,
-    "today": 2,
-    "total_views": 7713
+    "published": 31,
+    "today": 3,
+    "total_views": 7583
   }
 }
