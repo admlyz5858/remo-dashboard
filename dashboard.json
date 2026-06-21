@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T11:55:56.395Z",
+  "updated_at": "2026-06-21T12:18:33.478Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -551,7 +551,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-21T09:00:00Z",
       "runId": "run-20260620-205835",
-      "views": 335,
+      "views": 336,
       "likes": 3,
       "thumbnail": "https://img.youtube.com/vi/jdlCi8MfZDw/hqdefault.jpg"
     },
@@ -563,15 +563,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260621-114918",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/fcvSqnfdFfY/hqdefault.jpg"
+    },
+    {
+      "video_id": "ViuTOzT7fbU",
+      "url": "https://youtu.be/ViuTOzT7fbU",
+      "mode": "money",
+      "topic": "The Psychology of 'The 24-Hour Rule' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260621-121418",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/ViuTOzT7fbU/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 17,
-    "published": 29,
-    "today": 1,
-    "total_views": 7210
+    "published": 30,
+    "today": 2,
+    "total_views": 7214
   }
 }
