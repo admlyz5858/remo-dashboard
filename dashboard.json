@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T10:59:03.954Z",
+  "updated_at": "2026-06-21T11:55:56.395Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -539,7 +539,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-21T10:00:00Z",
       "runId": "run-20260620-205829",
-      "views": 32,
+      "views": 113,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/PPch4domx7I/hqdefault.jpg"
     },
@@ -551,15 +551,27 @@
       "status": "scheduled",
       "publish_at": "2026-06-21T09:00:00Z",
       "runId": "run-20260620-205835",
-      "views": 58,
-      "likes": 1,
+      "views": 335,
+      "likes": 3,
       "thumbnail": "https://img.youtube.com/vi/jdlCi8MfZDw/hqdefault.jpg"
+    },
+    {
+      "video_id": "fcvSqnfdFfY",
+      "url": "https://youtu.be/fcvSqnfdFfY",
+      "mode": "facts",
+      "topic": "The Mantis Shrimp",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260621-114918",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/fcvSqnfdFfY/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 17,
-    "published": 28,
-    "today": 0,
-    "total_views": 6852
+    "published": 29,
+    "today": 1,
+    "total_views": 7210
   }
 }
