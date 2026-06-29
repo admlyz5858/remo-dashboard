@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T21:49:50.910Z",
+  "updated_at": "2026-06-29T21:50:49.034Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -626,12 +626,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/WV_03kLInrA/hqdefault.jpg"
+    },
+    {
+      "video_id": "JDzhKdnDxDg",
+      "url": "https://youtu.be/JDzhKdnDxDg",
+      "mode": "facts",
+      "topic": "The Immortal Snail",
+      "status": "scheduled",
+      "publish_at": "2026-07-02T15:00:00Z",
+      "runId": "run-20260629-214649",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/JDzhKdnDxDg/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 19,
+    "scheduled": 20,
     "published": 32,
-    "today": 2,
+    "today": 3,
     "total_views": 8216
   }
 }
