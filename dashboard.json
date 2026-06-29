@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T21:51:54.058Z",
+  "updated_at": "2026-06-29T21:52:13.416Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -662,12 +662,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/pMY_v-QZIMo/hqdefault.jpg"
+    },
+    {
+      "video_id": "aIEIcsHnZJA",
+      "url": "https://youtu.be/aIEIcsHnZJA",
+      "mode": "facts",
+      "topic": "Glasswing Butterflies",
+      "status": "scheduled",
+      "publish_at": "2026-07-01T14:00:00Z",
+      "runId": "run-20260629-214627",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/aIEIcsHnZJA/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 22,
+    "scheduled": 23,
     "published": 32,
-    "today": 5,
+    "today": 6,
     "total_views": 8216
   }
 }
