@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T21:51:12.817Z",
+  "updated_at": "2026-06-29T21:51:54.058Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -650,12 +650,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/le3fDMNgiCs/hqdefault.jpg"
+    },
+    {
+      "video_id": "pMY_v-QZIMo",
+      "url": "https://youtu.be/pMY_v-QZIMo",
+      "mode": "money",
+      "topic": "The Psychology of 'The Snowball Effect' in Debt Payoff",
+      "status": "scheduled",
+      "publish_at": "2026-07-02T18:00:00Z",
+      "runId": "run-20260629-214657",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/pMY_v-QZIMo/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 21,
+    "scheduled": 22,
     "published": 32,
-    "today": 4,
+    "today": 5,
     "total_views": 8216
   }
 }
