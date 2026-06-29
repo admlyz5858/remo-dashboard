@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T21:45:38.804Z",
+  "updated_at": "2026-06-29T21:49:38.236Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -602,12 +602,24 @@
       "views": 29,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/JDlcgZ1_F8g/hqdefault.jpg"
+    },
+    {
+      "video_id": "NdD3YUk5bIM",
+      "url": "https://youtu.be/NdD3YUk5bIM",
+      "mode": "money",
+      "topic": "The Psychology of 'The 1% Rule' in Wealth Building",
+      "status": "scheduled",
+      "publish_at": "2026-06-30T16:00:00Z",
+      "runId": "run-20260629-214620",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/NdD3YUk5bIM/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 17,
+    "scheduled": 18,
     "published": 32,
-    "today": 0,
+    "today": 1,
     "total_views": 8216
   }
 }
