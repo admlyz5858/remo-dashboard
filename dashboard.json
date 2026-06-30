@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T10:25:11.382Z",
+  "updated_at": "2026-06-30T11:51:25.458Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -626,12 +626,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/le3fDMNgiCs/hqdefault.jpg"
+    },
+    {
+      "video_id": "_xPRf0LPkrA",
+      "url": "https://youtu.be/_xPRf0LPkrA",
+      "mode": "money",
+      "topic": "The Psychology of 'The Power of Small Changes' in Saving Money",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260630-114832",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/_xPRf0LPkrA/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 32,
-    "today": 0,
+    "published": 33,
+    "today": 1,
     "total_views": 8216
   }
 }
