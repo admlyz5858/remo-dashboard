@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T07:18:21.584Z",
+  "updated_at": "2026-06-30T07:19:53.979Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -616,18 +616,6 @@
       "thumbnail": "https://img.youtube.com/vi/NdD3YUk5bIM/hqdefault.jpg"
     },
     {
-      "video_id": "JDzhKdnDxDg",
-      "url": "https://youtu.be/JDzhKdnDxDg",
-      "mode": "facts",
-      "topic": "The Immortal Snail",
-      "status": "scheduled",
-      "publish_at": "2026-07-02T15:00:00Z",
-      "runId": "run-20260629-214649",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/JDzhKdnDxDg/hqdefault.jpg"
-    },
-    {
       "video_id": "le3fDMNgiCs",
       "url": "https://youtu.be/le3fDMNgiCs",
       "mode": "facts",
@@ -638,34 +626,10 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/le3fDMNgiCs/hqdefault.jpg"
-    },
-    {
-      "video_id": "pMY_v-QZIMo",
-      "url": "https://youtu.be/pMY_v-QZIMo",
-      "mode": "money",
-      "topic": "The Psychology of 'The Snowball Effect' in Debt Payoff",
-      "status": "scheduled",
-      "publish_at": "2026-07-02T18:00:00Z",
-      "runId": "run-20260629-214657",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/pMY_v-QZIMo/hqdefault.jpg"
-    },
-    {
-      "video_id": "aIEIcsHnZJA",
-      "url": "https://youtu.be/aIEIcsHnZJA",
-      "mode": "facts",
-      "topic": "Glasswing Butterflies",
-      "status": "scheduled",
-      "publish_at": "2026-07-01T14:00:00Z",
-      "runId": "run-20260629-214627",
-      "views": 0,
-      "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/aIEIcsHnZJA/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 22,
+    "scheduled": 19,
     "published": 32,
     "today": 0,
     "total_views": 8216
