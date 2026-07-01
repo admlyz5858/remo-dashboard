@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T11:49:55.363Z",
+  "updated_at": "2026-07-01T12:18:12.054Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -638,12 +638,24 @@
       "views": 3,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/_xPRf0LPkrA/hqdefault.jpg"
+    },
+    {
+      "video_id": "CWauoLmXrjU",
+      "url": "https://youtu.be/CWauoLmXrjU",
+      "mode": "facts",
+      "topic": "The Bombardier Beetle",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260701-121240",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/CWauoLmXrjU/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 33,
-    "today": 0,
+    "published": 34,
+    "today": 1,
     "total_views": 8282
   }
 }
