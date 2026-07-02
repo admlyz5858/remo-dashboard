@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T09:51:38.091Z",
+  "updated_at": "2026-07-02T11:41:27.343Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -647,15 +647,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260701-121240",
-      "views": 94,
+      "views": 101,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/CWauoLmXrjU/hqdefault.jpg"
+    },
+    {
+      "video_id": "pHQD1fJ7ftc",
+      "url": "https://youtu.be/pHQD1fJ7ftc",
+      "mode": "money",
+      "topic": "The Psychology of 'The 72-Hour Rule' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260702-113825",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/pHQD1fJ7ftc/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 34,
-    "today": 0,
-    "total_views": 8376
+    "published": 35,
+    "today": 1,
+    "total_views": 8383
   }
 }
