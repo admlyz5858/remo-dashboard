@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T11:25:07.920Z",
+  "updated_at": "2026-07-03T11:42:26.885Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -662,12 +662,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/pHQD1fJ7ftc/hqdefault.jpg"
+    },
+    {
+      "video_id": "FRw46cvzTeY",
+      "url": "https://youtu.be/FRw46cvzTeY",
+      "mode": "facts",
+      "topic": "The Immortal Tardigrade",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260703-113707",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/FRw46cvzTeY/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 35,
-    "today": 0,
+    "published": 36,
+    "today": 1,
     "total_views": 8499
   }
 }
