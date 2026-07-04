@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T09:13:03.226Z",
+  "updated_at": "2026-07-04T11:00:23.297Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -671,15 +671,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260703-113707",
-      "views": 95,
+      "views": 96,
       "likes": 3,
       "thumbnail": "https://img.youtube.com/vi/FRw46cvzTeY/hqdefault.jpg"
+    },
+    {
+      "video_id": "nfuB0aBos64",
+      "url": "https://youtu.be/nfuB0aBos64",
+      "mode": "money",
+      "topic": "The Psychology of 'The 5-Second Rule' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260704-105733",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/nfuB0aBos64/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 36,
-    "today": 0,
-    "total_views": 8594
+    "published": 37,
+    "today": 1,
+    "total_views": 8595
   }
 }
