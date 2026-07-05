@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T09:33:55.328Z",
+  "updated_at": "2026-07-05T11:12:02.447Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -671,7 +671,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260703-113707",
-      "views": 100,
+      "views": 104,
       "likes": 3,
       "thumbnail": "https://img.youtube.com/vi/FRw46cvzTeY/hqdefault.jpg"
     },
@@ -683,15 +683,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260704-105733",
-      "views": 43,
+      "views": 46,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/nfuB0aBos64/hqdefault.jpg"
+    },
+    {
+      "video_id": "T1xBFD1J5ps",
+      "url": "https://youtu.be/T1xBFD1J5ps",
+      "mode": "facts",
+      "topic": "Blobfish",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260705-110745",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/T1xBFD1J5ps/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 37,
-    "today": 0,
-    "total_views": 8642
+    "published": 38,
+    "today": 1,
+    "total_views": 8649
   }
 }
