@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T11:54:30.359Z",
+  "updated_at": "2026-07-06T12:57:36.714Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -698,12 +698,24 @@
       "views": 1098,
       "likes": 14,
       "thumbnail": "https://img.youtube.com/vi/T1xBFD1J5ps/hqdefault.jpg"
+    },
+    {
+      "video_id": "--A6BedvMEc",
+      "url": "https://youtu.be/--A6BedvMEc",
+      "mode": "money",
+      "topic": "The Psychology of 'The 10-Second Rule' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260706-125358",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/--A6BedvMEc/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 38,
-    "today": 0,
+    "published": 39,
+    "today": 1,
     "total_views": 9762
   }
 }
