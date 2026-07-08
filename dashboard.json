@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T10:06:16.384Z",
+  "updated_at": "2026-07-08T11:12:14.948Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -722,12 +722,24 @@
       "views": 33,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/CcoxtV-YRYg/hqdefault.jpg"
+    },
+    {
+      "video_id": "h6A4bJKow2Q",
+      "url": "https://youtu.be/h6A4bJKow2Q",
+      "mode": "money",
+      "topic": "The Psychology of Money Rituals",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260708-110936",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/h6A4bJKow2Q/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 40,
-    "today": 0,
+    "published": 41,
+    "today": 1,
     "total_views": 9849
   }
 }
