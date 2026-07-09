@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T09:19:58.463Z",
+  "updated_at": "2026-07-09T15:51:57.550Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -719,7 +719,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260707-115602",
-      "views": 78,
+      "views": 80,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/CcoxtV-YRYg/hqdefault.jpg"
     },
@@ -731,15 +731,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260708-110936",
-      "views": 29,
+      "views": 35,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/h6A4bJKow2Q/hqdefault.jpg"
+    },
+    {
+      "video_id": "0P_dMnimT6I",
+      "url": "https://youtu.be/0P_dMnimT6I",
+      "mode": "facts",
+      "topic": "The Electric Eel",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260709-121026",
+      "views": 17,
+      "likes": 1,
+      "thumbnail": "https://img.youtube.com/vi/0P_dMnimT6I/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 41,
-    "today": 0,
-    "total_views": 9923
+    "published": 42,
+    "today": 1,
+    "total_views": 9948
   }
 }
