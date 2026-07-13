@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T11:50:51.575Z",
+  "updated_at": "2026-07-13T12:20:56.643Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -782,12 +782,24 @@
       "views": 12,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ouvmcnkCXLE/hqdefault.jpg"
+    },
+    {
+      "video_id": "WmV_yxa_R3g",
+      "url": "https://youtu.be/WmV_yxa_R3g",
+      "mode": "facts",
+      "topic": "Lyrebirds",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260713-121054",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/WmV_yxa_R3g/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 45,
-    "today": 0,
+    "published": 46,
+    "today": 1,
     "total_views": 10153
   }
 }
