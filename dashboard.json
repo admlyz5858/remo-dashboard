@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T09:45:38.965Z",
+  "updated_at": "2026-07-14T10:57:08.167Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -794,12 +794,24 @@
       "views": 2,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/WmV_yxa_R3g/hqdefault.jpg"
+    },
+    {
+      "video_id": "dFnTMPKs3gU",
+      "url": "https://youtu.be/dFnTMPKs3gU",
+      "mode": "money",
+      "topic": "The Psychology of 'The Latte Factor' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260714-105142",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/dFnTMPKs3gU/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 46,
-    "today": 0,
+    "published": 47,
+    "today": 1,
     "total_views": 10178
   }
 }
