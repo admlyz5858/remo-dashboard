@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T09:55:44.389Z",
+  "updated_at": "2026-07-16T11:08:26.804Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -818,12 +818,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/pk_KSsAkWcY/hqdefault.jpg"
+    },
+    {
+      "video_id": "HyQcBduiJ30",
+      "url": "https://youtu.be/HyQcBduiJ30",
+      "mode": "money",
+      "topic": "Money Illusion",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260716-110438",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/HyQcBduiJ30/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 48,
-    "today": 0,
+    "published": 49,
+    "today": 1,
     "total_views": 10182
   }
 }
