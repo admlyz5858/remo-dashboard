@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T10:08:37.315Z",
+  "updated_at": "2026-07-18T10:25:35.930Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -842,12 +842,24 @@
       "views": 2,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/aVebhehjyhQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "fexUTCiqGfY",
+      "url": "https://youtu.be/fexUTCiqGfY",
+      "mode": "money",
+      "topic": "The Psychology of 'The Diderot Effect' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260718-102210",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/fexUTCiqGfY/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 50,
-    "today": 0,
+    "published": 51,
+    "today": 1,
     "total_views": 10241
   }
 }
