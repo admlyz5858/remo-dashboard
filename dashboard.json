@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T09:48:32.219Z",
+  "updated_at": "2026-07-19T10:45:29.194Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -851,15 +851,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260718-102210",
-      "views": 28,
+      "views": 36,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/fexUTCiqGfY/hqdefault.jpg"
+    },
+    {
+      "video_id": "8KSftMbBXwQ",
+      "url": "https://youtu.be/8KSftMbBXwQ",
+      "mode": "facts",
+      "topic": "The Portuguese Man O' War",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260719-103831",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/8KSftMbBXwQ/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 51,
-    "today": 0,
-    "total_views": 10271
+    "published": 52,
+    "today": 1,
+    "total_views": 10279
   }
 }
