@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T11:35:32.446Z",
+  "updated_at": "2026-07-20T11:52:22.198Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -863,15 +863,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260719-103831",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/8KSftMbBXwQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "m2jOpVSbxkE",
+      "url": "https://youtu.be/m2jOpVSbxkE",
+      "mode": "money",
+      "topic": "The Psychology of 'Parkinson's Law' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260720-115007",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/m2jOpVSbxkE/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 52,
-    "today": 0,
-    "total_views": 10309
+    "published": 53,
+    "today": 1,
+    "total_views": 10310
   }
 }
