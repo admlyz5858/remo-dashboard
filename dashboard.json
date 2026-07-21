@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T10:14:07.029Z",
+  "updated_at": "2026-07-21T11:19:42.180Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -878,12 +878,24 @@
       "views": 5,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/m2jOpVSbxkE/hqdefault.jpg"
+    },
+    {
+      "video_id": "xhtO5VAxat8",
+      "url": "https://youtu.be/xhtO5VAxat8",
+      "mode": "facts",
+      "topic": "The Hagfish",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260721-111316",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/xhtO5VAxat8/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 53,
-    "today": 0,
+    "published": 54,
+    "today": 1,
     "total_views": 10319
   }
 }
