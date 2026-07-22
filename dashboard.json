@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T10:13:33.995Z",
+  "updated_at": "2026-07-22T11:16:48.184Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -890,12 +890,24 @@
       "views": 4,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/xhtO5VAxat8/hqdefault.jpg"
+    },
+    {
+      "video_id": "6ApPY5eS-Ww",
+      "url": "https://youtu.be/6ApPY5eS-Ww",
+      "mode": "money",
+      "topic": "The Psychology of 'The 100-Hour Rule' in Wealth Building",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260722-111356",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/6ApPY5eS-Ww/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 54,
-    "today": 0,
+    "published": 55,
+    "today": 1,
     "total_views": 10327
   }
 }
