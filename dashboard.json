@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T10:59:14.177Z",
+  "updated_at": "2026-07-23T11:21:34.158Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -902,12 +902,24 @@
       "views": 136,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/6ApPY5eS-Ww/hqdefault.jpg"
+    },
+    {
+      "video_id": "yQG-zK5e2RQ",
+      "url": "https://youtu.be/yQG-zK5e2RQ",
+      "mode": "facts",
+      "topic": "Fungi",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260723-111442",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/yQG-zK5e2RQ/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 55,
-    "today": 0,
+    "published": 56,
+    "today": 1,
     "total_views": 10462
   }
 }
