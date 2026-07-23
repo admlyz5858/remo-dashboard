@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T23:54:19.885Z",
+  "updated_at": "2026-07-23T01:48:42.639Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -899,7 +899,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260722-111356",
-      "views": 55,
+      "views": 56,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/6ApPY5eS-Ww/hqdefault.jpg"
     }
@@ -907,7 +907,7 @@
   "metrics": {
     "scheduled": 19,
     "published": 55,
-    "today": 1,
-    "total_views": 10381
+    "today": 0,
+    "total_views": 10382
   }
 }
