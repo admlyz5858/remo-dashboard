@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T09:26:50.524Z",
+  "updated_at": "2026-07-25T10:42:20.073Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -899,7 +899,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260722-111356",
-      "views": 153,
+      "views": 154,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/6ApPY5eS-Ww/hqdefault.jpg"
     },
@@ -926,12 +926,24 @@
       "views": 21,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/CjMtCmTv9WQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "ZS_h1jOgDeg",
+      "url": "https://youtu.be/ZS_h1jOgDeg",
+      "mode": "facts",
+      "topic": "The Immortal Lobster",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260725-103738",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/ZS_h1jOgDeg/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 57,
-    "today": 0,
-    "total_views": 10505
+    "published": 58,
+    "today": 1,
+    "total_views": 10506
   }
 }
