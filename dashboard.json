@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T10:28:15.343Z",
+  "updated_at": "2026-07-26T10:50:59.571Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -938,12 +938,24 @@
       "views": 336,
       "likes": 8,
       "thumbnail": "https://img.youtube.com/vi/ZS_h1jOgDeg/hqdefault.jpg"
+    },
+    {
+      "video_id": "uaX3nB93QQA",
+      "url": "https://youtu.be/uaX3nB93QQA",
+      "mode": "money",
+      "topic": "The Psychology of 'The 24-Hour Rule' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260726-104724",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/uaX3nB93QQA/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 58,
-    "today": 0,
+    "published": 59,
+    "today": 1,
     "total_views": 10885
   }
 }
