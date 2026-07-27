@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T09:28:43.618Z",
+  "updated_at": "2026-07-27T12:36:35.975Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -947,15 +947,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260726-104724",
-      "views": 107,
+      "views": 108,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/uaX3nB93QQA/hqdefault.jpg"
+    },
+    {
+      "video_id": "2_o34lOg6CA",
+      "url": "https://youtu.be/2_o34lOg6CA",
+      "mode": "facts",
+      "topic": "Electric Fish",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260727-122912",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/2_o34lOg6CA/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 59,
-    "today": 0,
-    "total_views": 10995
+    "published": 60,
+    "today": 1,
+    "total_views": 10996
   }
 }
