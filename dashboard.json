@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T11:19:36.386Z",
+  "updated_at": "2026-07-31T11:37:37.230Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -998,12 +998,24 @@
       "views": 47,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/C_otVFu8NxU/hqdefault.jpg"
+    },
+    {
+      "video_id": "_UWlglSEQsM",
+      "url": "https://youtu.be/_UWlglSEQsM",
+      "mode": "facts",
+      "topic": "The Immortal Hydra",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260731-113242",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/_UWlglSEQsM/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 63,
-    "today": 0,
+    "published": 64,
+    "today": 1,
     "total_views": 11990
   }
 }
