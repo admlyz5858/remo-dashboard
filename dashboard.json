@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T10:27:09.399Z",
+  "updated_at": "2026-08-01T10:49:09.059Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1010,12 +1010,24 @@
       "views": 25,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/_UWlglSEQsM/hqdefault.jpg"
+    },
+    {
+      "video_id": "mxoehUFrlrU",
+      "url": "https://youtu.be/mxoehUFrlrU",
+      "mode": "facts",
+      "topic": "The Leaf Sheep Sea Slug",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260801-104445",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/mxoehUFrlrU/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 64,
-    "today": 0,
+    "published": 65,
+    "today": 1,
     "total_views": 12026
   }
 }
