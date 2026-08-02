@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T10:24:53.516Z",
+  "updated_at": "2026-08-02T10:46:59.105Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1022,12 +1022,24 @@
       "views": 259,
       "likes": 4,
       "thumbnail": "https://img.youtube.com/vi/mxoehUFrlrU/hqdefault.jpg"
+    },
+    {
+      "video_id": "aB_HB75OMXs",
+      "url": "https://youtu.be/aB_HB75OMXs",
+      "mode": "money",
+      "topic": "The Psychology of 'The Warm Glow Effect' in Donations",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260802-104418",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/aB_HB75OMXs/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 65,
-    "today": 0,
+    "published": 66,
+    "today": 1,
     "total_views": 12287
   }
 }
