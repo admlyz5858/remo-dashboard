@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T09:19:54.960Z",
+  "updated_at": "2026-08-03T12:37:11.110Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1034,12 +1034,24 @@
       "views": 18,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/aB_HB75OMXs/hqdefault.jpg"
+    },
+    {
+      "video_id": "uRXk4mHVRVY",
+      "url": "https://youtu.be/uRXk4mHVRVY",
+      "mode": "facts",
+      "topic": "The Lyre Bird",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260803-123004",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/uRXk4mHVRVY/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 66,
-    "today": 0,
+    "published": 67,
+    "today": 1,
     "total_views": 12309
   }
 }
