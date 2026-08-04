@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T11:54:37.627Z",
+  "updated_at": "2026-08-04T12:16:10.788Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1043,15 +1043,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260803-123004",
-      "views": 804,
+      "views": 808,
       "likes": 11,
       "thumbnail": "https://img.youtube.com/vi/uRXk4mHVRVY/hqdefault.jpg"
+    },
+    {
+      "video_id": "pAu1EspBnJU",
+      "url": "https://youtu.be/pAu1EspBnJU",
+      "mode": "money",
+      "topic": "The Psychology of 'The 5-Year Rule' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260804-121211",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/pAu1EspBnJU/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 67,
-    "today": 0,
-    "total_views": 13126
+    "published": 68,
+    "today": 1,
+    "total_views": 13130
   }
 }
