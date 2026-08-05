@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:23:53.670Z",
+  "updated_at": "2026-08-05T11:32:18.486Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1058,12 +1058,24 @@
       "views": 30,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/pAu1EspBnJU/hqdefault.jpg"
+    },
+    {
+      "video_id": "MaIv1f2vlLk",
+      "url": "https://youtu.be/MaIv1f2vlLk",
+      "mode": "facts",
+      "topic": "The Lyrebird's Mimicry",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260805-112441",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/MaIv1f2vlLk/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 68,
-    "today": 0,
+    "published": 69,
+    "today": 1,
     "total_views": 13930
   }
 }
