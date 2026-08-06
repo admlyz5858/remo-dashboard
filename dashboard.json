@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:26:49.898Z",
+  "updated_at": "2026-08-06T11:30:26.723Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1043,7 +1043,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260803-123004",
-      "views": 1789,
+      "views": 1759,
       "likes": 12,
       "thumbnail": "https://img.youtube.com/vi/uRXk4mHVRVY/hqdefault.jpg"
     },
@@ -1055,7 +1055,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260804-121211",
-      "views": 30,
+      "views": 29,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/pAu1EspBnJU/hqdefault.jpg"
     },
@@ -1070,12 +1070,24 @@
       "views": 285,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/MaIv1f2vlLk/hqdefault.jpg"
+    },
+    {
+      "video_id": "4PnucXuc3iU",
+      "url": "https://youtu.be/4PnucXuc3iU",
+      "mode": "money",
+      "topic": "The Psychology of 'Monopoly Money' Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260806-112745",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/4PnucXuc3iU/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 69,
-    "today": 0,
-    "total_views": 14425
+    "published": 70,
+    "today": 1,
+    "total_views": 14394
   }
 }
