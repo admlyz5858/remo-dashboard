@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T09:26:53.006Z",
+  "updated_at": "2026-08-08T09:45:34.548Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -815,7 +815,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260715-105536",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/pk_KSsAkWcY/hqdefault.jpg"
     },
@@ -1094,12 +1094,24 @@
       "views": 804,
       "likes": 8,
       "thumbnail": "https://img.youtube.com/vi/_w61dQS7HLo/hqdefault.jpg"
+    },
+    {
+      "video_id": "w7HSW2ZhyZE",
+      "url": "https://youtu.be/w7HSW2ZhyZE",
+      "mode": "money",
+      "topic": "The Psychology of 'The Ugly Duckling' in Money Habits",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260808-094228",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/w7HSW2ZhyZE/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 71,
-    "today": 0,
-    "total_views": 15226
+    "published": 72,
+    "today": 1,
+    "total_views": 15227
   }
 }
