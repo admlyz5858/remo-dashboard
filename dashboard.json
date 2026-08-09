@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T09:28:11.462Z",
+  "updated_at": "2026-08-09T09:49:28.292Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1106,12 +1106,24 @@
       "views": 13,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/w7HSW2ZhyZE/hqdefault.jpg"
+    },
+    {
+      "video_id": "giQqDDithcM",
+      "url": "https://youtu.be/giQqDDithcM",
+      "mode": "facts",
+      "topic": "The Immortal Planarian Worm",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260809-094442",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/giQqDDithcM/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 72,
-    "today": 0,
+    "published": 73,
+    "today": 1,
     "total_views": 15321
   }
 }
