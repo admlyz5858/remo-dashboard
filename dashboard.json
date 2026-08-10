@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T09:06:11.136Z",
+  "updated_at": "2026-08-10T10:23:42.214Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1115,15 +1115,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260809-094442",
-      "views": 461,
+      "views": 462,
       "likes": 6,
       "thumbnail": "https://img.youtube.com/vi/giQqDDithcM/hqdefault.jpg"
+    },
+    {
+      "video_id": "NR-pGQQIeeM",
+      "url": "https://youtu.be/NR-pGQQIeeM",
+      "mode": "money",
+      "topic": "The Psychology of 'The 10-Year Rule' in Wealth Building",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260810-102100",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/NR-pGQQIeeM/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 73,
-    "today": 0,
-    "total_views": 15702
+    "published": 74,
+    "today": 1,
+    "total_views": 15703
   }
 }
