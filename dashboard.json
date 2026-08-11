@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T09:49:39.172Z",
+  "updated_at": "2026-08-11T10:09:54.188Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1130,12 +1130,24 @@
       "views": 58,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/NR-pGQQIeeM/hqdefault.jpg"
+    },
+    {
+      "video_id": "iyV4kaEp-24",
+      "url": "https://youtu.be/iyV4kaEp-24",
+      "mode": "facts",
+      "topic": "Ants",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260811-100402",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/iyV4kaEp-24/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 74,
-    "today": 0,
+    "published": 75,
+    "today": 1,
     "total_views": 15762
   }
 }
