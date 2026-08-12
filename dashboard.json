@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T09:00:17.694Z",
+  "updated_at": "2026-08-12T10:14:47.343Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1142,12 +1142,24 @@
       "views": 166,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/iyV4kaEp-24/hqdefault.jpg"
+    },
+    {
+      "video_id": "ongMFGAxRUo",
+      "url": "https://youtu.be/ongMFGAxRUo",
+      "mode": "money",
+      "topic": "The Psychology of 'The IKEA Effect' in Money",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260812-101211",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/ongMFGAxRUo/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 75,
-    "today": 0,
+    "published": 76,
+    "today": 1,
     "total_views": 15928
   }
 }
