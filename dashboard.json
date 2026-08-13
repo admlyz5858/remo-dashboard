@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T09:01:44.654Z",
+  "updated_at": "2026-08-13T10:17:59.178Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1154,12 +1154,24 @@
       "views": 9,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/ongMFGAxRUo/hqdefault.jpg"
+    },
+    {
+      "video_id": "EqZ0syPN5x8",
+      "url": "https://youtu.be/EqZ0syPN5x8",
+      "mode": "facts",
+      "topic": "Jerboas",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260813-101224",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/EqZ0syPN5x8/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 76,
-    "today": 0,
+    "published": 77,
+    "today": 1,
     "total_views": 15944
   }
 }
