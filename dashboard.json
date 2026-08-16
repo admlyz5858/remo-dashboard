@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T09:17:07.059Z",
+  "updated_at": "2026-08-16T09:35:00.785Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1190,12 +1190,24 @@
       "views": 594,
       "likes": 8,
       "thumbnail": "https://img.youtube.com/vi/B9WYip2ofGc/hqdefault.jpg"
+    },
+    {
+      "video_id": "Ws_8x52NMTc",
+      "url": "https://youtu.be/Ws_8x52NMTc",
+      "mode": "money",
+      "topic": "The Psychology of 'The Threshold Effect' in Saving Money",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260816-093134",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ws_8x52NMTc/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 79,
-    "today": 0,
+    "published": 80,
+    "today": 1,
     "total_views": 16631
   }
 }
