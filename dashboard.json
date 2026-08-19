@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T09:22:51.792Z",
+  "updated_at": "2026-08-19T09:43:51.113Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1226,12 +1226,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/cP9f_S_jR6w/hqdefault.jpg"
+    },
+    {
+      "video_id": "CKlo-5E89kE",
+      "url": "https://youtu.be/CKlo-5E89kE",
+      "mode": "facts",
+      "topic": "The Dancing Frog",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260819-093840",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/CKlo-5E89kE/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 82,
-    "today": 0,
+    "published": 83,
+    "today": 1,
     "total_views": 16783
   }
 }
