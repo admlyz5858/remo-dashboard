@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T09:22:31.215Z",
+  "updated_at": "2026-08-20T09:41:40.184Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1238,12 +1238,24 @@
       "views": 19,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/CKlo-5E89kE/hqdefault.jpg"
+    },
+    {
+      "video_id": "ejjmqWgAtms",
+      "url": "https://youtu.be/ejjmqWgAtms",
+      "mode": "money",
+      "topic": "The Psychology of 'The Foot-in-the-Door' Technique in Saving Money",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260820-093915",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/ejjmqWgAtms/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 83,
-    "today": 0,
+    "published": 84,
+    "today": 1,
     "total_views": 16805
   }
 }
