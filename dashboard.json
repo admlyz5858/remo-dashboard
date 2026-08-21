@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T09:25:02.391Z",
+  "updated_at": "2026-08-21T09:46:28.042Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1250,12 +1250,24 @@
       "views": 74,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ejjmqWgAtms/hqdefault.jpg"
+    },
+    {
+      "video_id": "p3zuZvXegE4",
+      "url": "https://youtu.be/p3zuZvXegE4",
+      "mode": "facts",
+      "topic": "Sea Urchins",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260821-094146",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/p3zuZvXegE4/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 84,
-    "today": 0,
+    "published": 85,
+    "today": 1,
     "total_views": 16891
   }
 }
