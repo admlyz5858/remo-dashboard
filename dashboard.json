@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T09:16:55.808Z",
+  "updated_at": "2026-08-22T09:35:05.153Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1262,12 +1262,24 @@
       "views": 1122,
       "likes": 15,
       "thumbnail": "https://img.youtube.com/vi/p3zuZvXegE4/hqdefault.jpg"
+    },
+    {
+      "video_id": "CE-rq0hXs04",
+      "url": "https://youtu.be/CE-rq0hXs04",
+      "mode": "money",
+      "topic": "The Psychology of 'The Cashless Effect' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260822-093135",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/CE-rq0hXs04/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 85,
-    "today": 0,
+    "published": 86,
+    "today": 1,
     "total_views": 18015
   }
 }
