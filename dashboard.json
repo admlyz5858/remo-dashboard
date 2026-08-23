@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T16:12:41.751Z",
+  "updated_at": "2026-08-23T17:11:44.128Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -767,7 +767,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260711-101850",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/cgxEi0ydV3E/hqdefault.jpg"
     },
@@ -791,7 +791,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260713-121054",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/WmV_yxa_R3g/hqdefault.jpg"
     },
@@ -1259,7 +1259,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260821-094146",
-      "views": 1134,
+      "views": 1131,
       "likes": 15,
       "thumbnail": "https://img.youtube.com/vi/p3zuZvXegE4/hqdefault.jpg"
     },
@@ -1283,8 +1283,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260823-093204",
-      "views": 727,
-      "likes": 11,
+      "views": 872,
+      "likes": 10,
       "thumbnail": "https://img.youtube.com/vi/aTMaVcQxxWA/hqdefault.jpg"
     }
   ],
@@ -1292,6 +1292,6 @@
     "scheduled": 19,
     "published": 87,
     "today": 1,
-    "total_views": 18755
+    "total_views": 18899
   }
 }
