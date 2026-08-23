@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T09:17:09.754Z",
+  "updated_at": "2026-08-23T09:40:55.497Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1274,12 +1274,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/CE-rq0hXs04/hqdefault.jpg"
+    },
+    {
+      "video_id": "aTMaVcQxxWA",
+      "url": "https://youtu.be/aTMaVcQxxWA",
+      "mode": "facts",
+      "topic": "The Pistol Shrimp",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260823-093204",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/aTMaVcQxxWA/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 86,
-    "today": 0,
+    "published": 87,
+    "today": 1,
     "total_views": 18025
   }
 }
