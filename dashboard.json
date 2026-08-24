@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T23:10:45.954Z",
+  "updated_at": "2026-08-24T00:38:46.483Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1291,7 +1291,7 @@
   "metrics": {
     "scheduled": 19,
     "published": 87,
-    "today": 1,
+    "today": 0,
     "total_views": 19104
   }
 }
