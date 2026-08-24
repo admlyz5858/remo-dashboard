@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T09:35:40.780Z",
+  "updated_at": "2026-08-24T09:56:29.489Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1286,12 +1286,24 @@
       "views": 1077,
       "likes": 8,
       "thumbnail": "https://img.youtube.com/vi/aTMaVcQxxWA/hqdefault.jpg"
+    },
+    {
+      "video_id": "XcbrS6uRZOQ",
+      "url": "https://youtu.be/XcbrS6uRZOQ",
+      "mode": "money",
+      "topic": "The Psychology of 'The Dopamine Effect' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260824-095316",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/XcbrS6uRZOQ/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 87,
-    "today": 0,
+    "published": 88,
+    "today": 1,
     "total_views": 19104
   }
 }
