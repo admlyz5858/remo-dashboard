@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T09:24:21.472Z",
+  "updated_at": "2026-08-25T09:49:27.217Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1298,12 +1298,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/XcbrS6uRZOQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "WObQmOUndJs",
+      "url": "https://youtu.be/WObQmOUndJs",
+      "mode": "facts",
+      "topic": "Bumblebees",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260825-094004",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/WObQmOUndJs/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 88,
-    "today": 0,
+    "published": 89,
+    "today": 1,
     "total_views": 19106
   }
 }
