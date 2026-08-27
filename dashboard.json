@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T13:18:08.375Z",
+  "updated_at": "2026-08-27T19:47:22.289Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1307,7 +1307,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260825-094004",
-      "views": 166,
+      "views": 165,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/WObQmOUndJs/hqdefault.jpg"
     },
@@ -1322,12 +1322,24 @@
       "views": 8,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/JzVGcseYKsU/hqdefault.jpg"
+    },
+    {
+      "video_id": "2hU7zTf41aU",
+      "url": "https://youtu.be/2hU7zTf41aU",
+      "mode": "facts",
+      "topic": "Quokkas",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260827-194222",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/2hU7zTf41aU/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 90,
-    "today": 0,
-    "total_views": 19279
+    "published": 91,
+    "today": 1,
+    "total_views": 19278
   }
 }
