@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:25:32.232Z",
+  "updated_at": "2026-08-30T14:23:45.670Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1358,12 +1358,24 @@
       "views": 231,
       "likes": 7,
       "thumbnail": "https://img.youtube.com/vi/0be2OvIHjW0/hqdefault.jpg"
+    },
+    {
+      "video_id": "7C1UUaGUPt8",
+      "url": "https://youtu.be/7C1UUaGUPt8",
+      "mode": "money",
+      "topic": "The Psychology of 'Money Scripts'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260830-142117",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/7C1UUaGUPt8/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 93,
-    "today": 0,
+    "published": 94,
+    "today": 1,
     "total_views": 20141
   }
 }
