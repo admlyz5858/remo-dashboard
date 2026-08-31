@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T15:39:09.185Z",
+  "updated_at": "2026-08-31T16:59:10.834Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1355,7 +1355,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260829-141656",
-      "views": 267,
+      "views": 270,
       "likes": 7,
       "thumbnail": "https://img.youtube.com/vi/0be2OvIHjW0/hqdefault.jpg"
     },
@@ -1370,12 +1370,24 @@
       "views": 34,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/7C1UUaGUPt8/hqdefault.jpg"
+    },
+    {
+      "video_id": "G-Ngm5XON7Y",
+      "url": "https://youtu.be/G-Ngm5XON7Y",
+      "mode": "facts",
+      "topic": "Dung Beetles",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260831-165504",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/G-Ngm5XON7Y/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 94,
-    "today": 0,
-    "total_views": 20211
+    "published": 95,
+    "today": 1,
+    "total_views": 20214
   }
 }
