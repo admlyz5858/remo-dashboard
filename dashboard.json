@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:52:18.468Z",
+  "updated_at": "2026-09-04T13:23:23.610Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1403,15 +1403,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260903-132534",
-      "views": 1017,
+      "views": 1019,
       "likes": 4,
       "thumbnail": "https://img.youtube.com/vi/axVJzoglgPg/hqdefault.jpg"
+    },
+    {
+      "video_id": "T-f_TlpVdBg",
+      "url": "https://youtu.be/T-f_TlpVdBg",
+      "mode": "money",
+      "topic": "The Psychology of 'The Power of Pre-Commitment' in Saving Money",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260904-132019",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/T-f_TlpVdBg/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 97,
-    "today": 0,
-    "total_views": 21402
+    "published": 98,
+    "today": 1,
+    "total_views": 21404
   }
 }
