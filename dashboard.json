@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T17:00:03.792Z",
+  "updated_at": "2026-09-05T17:48:22.921Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1430,12 +1430,24 @@
       "views": 38,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/Iy7QEbo6PjM/hqdefault.jpg"
+    },
+    {
+      "video_id": "QzHtCGRrXlo",
+      "url": "https://youtu.be/QzHtCGRrXlo",
+      "mode": "money",
+      "topic": "The Psychology of 'The Power of Visualization' in Money Goals",
+      "status": "scheduled",
+      "publish_at": "2026-09-06T11:00:00.000Z",
+      "runId": "run-20260905-174440",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/QzHtCGRrXlo/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 19,
+    "scheduled": 20,
     "published": 99,
-    "today": 1,
+    "today": 2,
     "total_views": 21451
   }
 }
