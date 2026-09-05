@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T11:01:49.307Z",
+  "updated_at": "2026-09-05T12:36:15.123Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1355,7 +1355,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260829-141656",
-      "views": 270,
+      "views": 271,
       "likes": 7,
       "thumbnail": "https://img.youtube.com/vi/0be2OvIHjW0/hqdefault.jpg"
     },
@@ -1418,12 +1418,24 @@
       "views": 8,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/T-f_TlpVdBg/hqdefault.jpg"
+    },
+    {
+      "video_id": "Iy7QEbo6PjM",
+      "url": "https://youtu.be/Iy7QEbo6PjM",
+      "mode": "facts",
+      "topic": "The Language of Whales",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260905-123053",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/Iy7QEbo6PjM/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 19,
-    "published": 98,
-    "today": 0,
-    "total_views": 21412
+    "published": 99,
+    "today": 1,
+    "total_views": 21413
   }
 }
