@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T09:52:39.441Z",
+  "updated_at": "2026-09-06T12:48:28.629Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1439,15 +1439,27 @@
       "status": "scheduled",
       "publish_at": "2026-09-06T11:00:00.000Z",
       "runId": "run-20260905-174440",
-      "views": 0,
+      "views": 16,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/QzHtCGRrXlo/hqdefault.jpg"
+    },
+    {
+      "video_id": "k4BMvN_9tUA",
+      "url": "https://youtu.be/k4BMvN_9tUA",
+      "mode": "money",
+      "topic": "The Psychology of 'The Envelope System' in Budgeting",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260906-124458",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/k4BMvN_9tUA/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 20,
-    "published": 99,
-    "today": 0,
-    "total_views": 21459
+    "published": 100,
+    "today": 1,
+    "total_views": 21475
   }
 }
