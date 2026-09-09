@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:20:35.350Z",
+  "updated_at": "2026-09-09T13:41:24.484Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1463,15 +1463,27 @@
       "status": "scheduled",
       "publish_at": "2026-09-09T09:00:00.000Z",
       "runId": "run-20260908-154231",
-      "views": 36,
-      "likes": 1,
+      "views": 178,
+      "likes": 5,
       "thumbnail": "https://img.youtube.com/vi/5f07sj-DYko/hqdefault.jpg"
+    },
+    {
+      "video_id": "mV3pfVpdSTQ",
+      "url": "https://youtu.be/mV3pfVpdSTQ",
+      "mode": "facts",
+      "topic": "The Masai Giraffe",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260909-133635",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/mV3pfVpdSTQ/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 21,
-    "published": 100,
-    "today": 0,
-    "total_views": 21672
+    "published": 101,
+    "today": 1,
+    "total_views": 21814
   }
 }
