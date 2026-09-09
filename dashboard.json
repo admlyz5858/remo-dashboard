@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T13:41:24.484Z",
+  "updated_at": "2026-09-09T13:59:49.335Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1475,15 +1475,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260909-133635",
+      "views": 43,
+      "likes": 3,
+      "thumbnail": "https://img.youtube.com/vi/mV3pfVpdSTQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "xZ5d5HJfxT0",
+      "url": "https://youtu.be/xZ5d5HJfxT0",
+      "mode": "facts",
+      "topic": "The Electric Catfish",
+      "status": "pending",
+      "publish_at": null,
+      "runId": "run-20260909-135520",
       "views": 0,
       "likes": 0,
-      "thumbnail": "https://img.youtube.com/vi/mV3pfVpdSTQ/hqdefault.jpg"
+      "thumbnail": "https://img.youtube.com/vi/xZ5d5HJfxT0/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 21,
     "published": 101,
-    "today": 1,
-    "total_views": 21814
+    "today": 2,
+    "total_views": 21857
   }
 }
