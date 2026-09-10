@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T12:27:49.614Z",
+  "updated_at": "2026-09-10T13:30:31.284Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1490,12 +1490,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/xZ5d5HJfxT0/hqdefault.jpg"
+    },
+    {
+      "video_id": "68EXiFZwPL0",
+      "url": "https://youtu.be/68EXiFZwPL0",
+      "mode": "money",
+      "topic": "The Psychology of 'The 5-Minute Rule' in Saving Money",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260910-132807",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/68EXiFZwPL0/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 21,
-    "published": 101,
-    "today": 0,
+    "published": 102,
+    "today": 1,
     "total_views": 22096
   }
 }
