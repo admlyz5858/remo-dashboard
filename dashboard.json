@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T16:44:23.607Z",
+  "updated_at": "2026-09-13T17:50:45.227Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1523,7 +1523,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260912-124537",
-      "views": 32,
+      "views": 40,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/uuIrZEhx0pk/hqdefault.jpg"
     },
@@ -1535,15 +1535,39 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260913-134426",
-      "views": 524,
-      "likes": 19,
+      "views": 608,
+      "likes": 24,
       "thumbnail": "https://img.youtube.com/vi/FPsQn67wwKs/hqdefault.jpg"
+    },
+    {
+      "video_id": "Ubmkhio7v5Y",
+      "url": "https://youtu.be/Ubmkhio7v5Y",
+      "mode": "money",
+      "topic": "The Psychology of 'The Two-Pocket Mindset' in Spending",
+      "status": "scheduled",
+      "publish_at": "2026-09-14T11:00:00.000Z",
+      "runId": "run-20260913-174749",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/Ubmkhio7v5Y/hqdefault.jpg"
+    },
+    {
+      "video_id": "7KQjJ6suo2c",
+      "url": "https://youtu.be/7KQjJ6suo2c",
+      "mode": "money",
+      "topic": "The Psychology of 'The Chameleon Effect' in Money Habits",
+      "status": "scheduled",
+      "publish_at": "2026-09-14T11:00:00.000Z",
+      "runId": "run-20260913-174759",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/7KQjJ6suo2c/hqdefault.jpg"
     }
   ],
   "metrics": {
-    "scheduled": 21,
+    "scheduled": 23,
     "published": 105,
-    "today": 1,
-    "total_views": 23751
+    "today": 3,
+    "total_views": 23843
   }
 }
