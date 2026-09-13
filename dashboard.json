@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T12:55:22.486Z",
+  "updated_at": "2026-09-13T13:48:38.319Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1526,12 +1526,24 @@
       "views": 25,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/uuIrZEhx0pk/hqdefault.jpg"
+    },
+    {
+      "video_id": "FPsQn67wwKs",
+      "url": "https://youtu.be/FPsQn67wwKs",
+      "mode": "facts",
+      "topic": "The Immortal Red Sea Urchin",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260913-134426",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/FPsQn67wwKs/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 21,
-    "published": 104,
-    "today": 0,
+    "published": 105,
+    "today": 1,
     "total_views": 23220
   }
 }
