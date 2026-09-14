@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T15:23:59.369Z",
+  "updated_at": "2026-09-14T15:50:42.414Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -863,7 +863,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260719-103831",
-      "views": 23,
+      "views": 24,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/8KSftMbBXwQ/hqdefault.jpg"
     },
@@ -1559,7 +1559,7 @@
       "status": "scheduled",
       "publish_at": "2026-09-14T11:00:00.000Z",
       "runId": "run-20260913-174759",
-      "views": 0,
+      "views": 20,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/7KQjJ6suo2c/hqdefault.jpg"
     },
@@ -1574,12 +1574,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/N5lIMwS8qVA/hqdefault.jpg"
+    },
+    {
+      "video_id": "B-YFyxjMsKM",
+      "url": "https://youtu.be/B-YFyxjMsKM",
+      "mode": "money",
+      "topic": "The Psychology of 'The Illusion of Control' in Investing",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260914-154759",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/B-YFyxjMsKM/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 105,
-    "today": 0,
-    "total_views": 24413
+    "published": 106,
+    "today": 1,
+    "total_views": 24434
   }
 }
