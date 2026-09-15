@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T13:57:42.020Z",
+  "updated_at": "2026-09-15T14:20:16.918Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1586,12 +1586,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/B-YFyxjMsKM/hqdefault.jpg"
+    },
+    {
+      "video_id": "cIaAA3z2xdY",
+      "url": "https://youtu.be/cIaAA3z2xdY",
+      "mode": "facts",
+      "topic": "The Immortal Snail's Nemesis",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260915-141525",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/cIaAA3z2xdY/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 106,
-    "today": 0,
+    "published": 107,
+    "today": 1,
     "total_views": 24481
   }
 }
