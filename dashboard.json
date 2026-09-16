@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T13:50:34.156Z",
+  "updated_at": "2026-09-16T14:10:15.112Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1598,12 +1598,24 @@
       "views": 320,
       "likes": 6,
       "thumbnail": "https://img.youtube.com/vi/cIaAA3z2xdY/hqdefault.jpg"
+    },
+    {
+      "video_id": "5AXT_wGw-Ow",
+      "url": "https://youtu.be/5AXT_wGw-Ow",
+      "mode": "money",
+      "topic": "The Psychology of 'The Friday Effect' in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260916-140731",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/5AXT_wGw-Ow/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 107,
-    "today": 0,
+    "published": 108,
+    "today": 1,
     "total_views": 24874
   }
 }
