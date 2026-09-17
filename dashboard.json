@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T13:54:37.503Z",
+  "updated_at": "2026-09-17T14:21:04.651Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1595,7 +1595,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260915-141525",
-      "views": 503,
+      "views": 498,
       "likes": 9,
       "thumbnail": "https://img.youtube.com/vi/cIaAA3z2xdY/hqdefault.jpg"
     },
@@ -1610,12 +1610,24 @@
       "views": 1,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/5AXT_wGw-Ow/hqdefault.jpg"
+    },
+    {
+      "video_id": "Q2qT7FWF3aQ",
+      "url": "https://youtu.be/Q2qT7FWF3aQ",
+      "mode": "facts",
+      "topic": "Electric Eels",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260917-141257",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/Q2qT7FWF3aQ/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 108,
-    "today": 0,
-    "total_views": 25063
+    "published": 109,
+    "today": 1,
+    "total_views": 25058
   }
 }
