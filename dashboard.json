@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T12:27:40.836Z",
+  "updated_at": "2026-09-18T13:34:57.516Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1622,12 +1622,24 @@
       "views": 343,
       "likes": 8,
       "thumbnail": "https://img.youtube.com/vi/Q2qT7FWF3aQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "J_Qje6tBzxU",
+      "url": "https://youtu.be/J_Qje6tBzxU",
+      "mode": "money",
+      "topic": "The Psychology of 'Shrinkflation'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260918-133106",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/J_Qje6tBzxU/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 109,
-    "today": 0,
+    "published": 110,
+    "today": 1,
     "total_views": 25510
   }
 }
