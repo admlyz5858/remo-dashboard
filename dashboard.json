@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T09:54:42.906Z",
+  "updated_at": "2026-09-19T13:04:18.329Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1595,7 +1595,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260915-141525",
-      "views": 599,
+      "views": 602,
       "likes": 9,
       "thumbnail": "https://img.youtube.com/vi/cIaAA3z2xdY/hqdefault.jpg"
     },
@@ -1619,7 +1619,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260917-141257",
-      "views": 468,
+      "views": 490,
       "likes": 8,
       "thumbnail": "https://img.youtube.com/vi/Q2qT7FWF3aQ/hqdefault.jpg"
     },
@@ -1634,12 +1634,24 @@
       "views": 8,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/J_Qje6tBzxU/hqdefault.jpg"
+    },
+    {
+      "video_id": "ze1gfdg-P1o",
+      "url": "https://youtu.be/ze1gfdg-P1o",
+      "mode": "facts",
+      "topic": "The Venus Flytrap's Diet",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260919-130010",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/ze1gfdg-P1o/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 110,
-    "today": 0,
-    "total_views": 25635
+    "published": 111,
+    "today": 1,
+    "total_views": 25660
   }
 }
