@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T13:17:36.650Z",
+  "updated_at": "2026-09-20T13:34:16.319Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1643,15 +1643,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260919-130010",
-      "views": 255,
+      "views": 256,
       "likes": 7,
       "thumbnail": "https://img.youtube.com/vi/ze1gfdg-P1o/hqdefault.jpg"
+    },
+    {
+      "video_id": "RE6017suupg",
+      "url": "https://youtu.be/RE6017suupg",
+      "mode": "money",
+      "topic": "The Psychology of 'Scarcity vs. Abundance' Mindset in Spending",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260920-133127",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/RE6017suupg/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 111,
-    "today": 0,
-    "total_views": 25940
+    "published": 112,
+    "today": 1,
+    "total_views": 25941
   }
 }
