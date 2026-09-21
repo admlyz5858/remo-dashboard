@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T11:23:16.976Z",
+  "updated_at": "2026-09-21T15:51:24.910Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1658,12 +1658,24 @@
       "views": 3,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/RE6017suupg/hqdefault.jpg"
+    },
+    {
+      "video_id": "1pZfbZWqpzw",
+      "url": "https://youtu.be/1pZfbZWqpzw",
+      "mode": "facts",
+      "topic": "The Starfish",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260921-154720",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/1pZfbZWqpzw/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 112,
-    "today": 0,
+    "published": 113,
+    "today": 1,
     "total_views": 25912
   }
 }
