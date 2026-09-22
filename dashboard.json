@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T10:32:15.145Z",
+  "updated_at": "2026-09-22T14:01:32.939Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1620,7 +1620,7 @@
       "publish_at": null,
       "runId": "run-20260917-141257",
       "views": 520,
-      "likes": 8,
+      "likes": 9,
       "thumbnail": "https://img.youtube.com/vi/Q2qT7FWF3aQ/hqdefault.jpg"
     },
     {
@@ -1667,15 +1667,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260921-154720",
-      "views": 128,
+      "views": 163,
       "likes": 5,
       "thumbnail": "https://img.youtube.com/vi/1pZfbZWqpzw/hqdefault.jpg"
+    },
+    {
+      "video_id": "RyPzMVrsvig",
+      "url": "https://youtu.be/RyPzMVrsvig",
+      "mode": "money",
+      "topic": "The Psychology of 'Loud Budgeting'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260922-135829",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/RyPzMVrsvig/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 113,
-    "today": 0,
-    "total_views": 26039
+    "published": 114,
+    "today": 1,
+    "total_views": 26074
   }
 }
