@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:02:02.223Z",
+  "updated_at": "2026-09-24T14:11:14.110Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1694,12 +1694,24 @@
       "views": 158,
       "likes": 5,
       "thumbnail": "https://img.youtube.com/vi/AayPVdt33Pw/hqdefault.jpg"
+    },
+    {
+      "video_id": "f9NMYo-8FPo",
+      "url": "https://youtu.be/f9NMYo-8FPo",
+      "mode": "money",
+      "topic": "The Psychology of 'Reverse Budgeting'",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260924-140742",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/f9NMYo-8FPo/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 115,
-    "today": 0,
+    "published": 116,
+    "today": 1,
     "total_views": 26401
   }
 }
