@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T16:13:42.151Z",
+  "updated_at": "2026-09-28T17:33:37.813Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1730,12 +1730,24 @@
       "views": 90,
       "likes": 9,
       "thumbnail": "https://img.youtube.com/vi/rfRNgPhGdVs/hqdefault.jpg"
+    },
+    {
+      "video_id": "5NMiYt0nmUk",
+      "url": "https://youtu.be/5NMiYt0nmUk",
+      "mode": "money",
+      "topic": "The Psychology of 'The Coin Flip Rule' in Decision-Making",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20260928-173030",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/5NMiYt0nmUk/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 118,
-    "today": 0,
+    "published": 119,
+    "today": 1,
     "total_views": 26632
   }
 }
