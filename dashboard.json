@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:19:49.213Z",
+  "updated_at": "2026-10-02T15:38:56.636Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1775,15 +1775,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261001-161233",
-      "views": 161,
+      "views": 163,
       "likes": 7,
       "thumbnail": "https://img.youtube.com/vi/CP7Tgh47LMI/hqdefault.jpg"
+    },
+    {
+      "video_id": "h3W0mBX2Qxo",
+      "url": "https://youtu.be/h3W0mBX2Qxo",
+      "mode": "money",
+      "topic": "The Psychology of 'The 3-Bucket Rule' in Money Management",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20261002-153540",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/h3W0mBX2Qxo/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 122,
-    "today": 0,
-    "total_views": 27091
+    "published": 123,
+    "today": 1,
+    "total_views": 27093
   }
 }
