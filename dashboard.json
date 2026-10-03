@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T12:50:19.708Z",
+  "updated_at": "2026-10-03T14:18:45.831Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1790,12 +1790,24 @@
       "views": 7,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/h3W0mBX2Qxo/hqdefault.jpg"
+    },
+    {
+      "video_id": "de0eUnxRIVQ",
+      "url": "https://youtu.be/de0eUnxRIVQ",
+      "mode": "facts",
+      "topic": "Tardigrades",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20261003-141431",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/de0eUnxRIVQ/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 123,
-    "today": 0,
+    "published": 124,
+    "today": 1,
     "total_views": 27103
   }
 }
