@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T14:33:57.948Z",
+  "updated_at": "2026-10-04T14:45:44.536Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1802,12 +1802,24 @@
       "views": 24,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/de0eUnxRIVQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "cM0tqRWPoqg",
+      "url": "https://youtu.be/cM0tqRWPoqg",
+      "mode": "money",
+      "topic": "The 1% Spending Rule",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20261004-144324",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/cM0tqRWPoqg/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 124,
-    "today": 0,
+    "published": 125,
+    "today": 1,
     "total_views": 27133
   }
 }
