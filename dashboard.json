@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T16:34:17.085Z",
+  "updated_at": "2026-10-05T18:19:52.112Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1814,12 +1814,24 @@
       "views": 4,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/cM0tqRWPoqg/hqdefault.jpg"
+    },
+    {
+      "video_id": "ply4_98GCpM",
+      "url": "https://youtu.be/ply4_98GCpM",
+      "mode": "facts",
+      "topic": "Walking Trees",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20261005-181022",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/ply4_98GCpM/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 125,
-    "today": 0,
+    "published": 126,
+    "today": 1,
     "total_views": 27145
   }
 }
