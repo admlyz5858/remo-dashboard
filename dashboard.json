@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T21:22:39.091Z",
+  "updated_at": "2026-10-07T01:06:45.708Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1667,7 +1667,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260921-154720",
-      "views": 322,
+      "views": 324,
       "likes": 5,
       "thumbnail": "https://img.youtube.com/vi/1pZfbZWqpzw/hqdefault.jpg"
     },
@@ -1691,7 +1691,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260923-141036",
-      "views": 263,
+      "views": 266,
       "likes": 5,
       "thumbnail": "https://img.youtube.com/vi/AayPVdt33Pw/hqdefault.jpg"
     },
@@ -1727,7 +1727,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260927-143816",
-      "views": 99,
+      "views": 100,
       "likes": 9,
       "thumbnail": "https://img.youtube.com/vi/rfRNgPhGdVs/hqdefault.jpg"
     },
@@ -1751,7 +1751,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260929-153317",
-      "views": 265,
+      "views": 266,
       "likes": 2,
       "thumbnail": "https://img.youtube.com/vi/k5FHCa7auxc/hqdefault.jpg"
     },
@@ -1775,7 +1775,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261001-161233",
-      "views": 169,
+      "views": 171,
       "likes": 7,
       "thumbnail": "https://img.youtube.com/vi/CP7Tgh47LMI/hqdefault.jpg"
     },
@@ -1799,7 +1799,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261003-141431",
-      "views": 29,
+      "views": 34,
       "likes": 1,
       "thumbnail": "https://img.youtube.com/vi/de0eUnxRIVQ/hqdefault.jpg"
     },
@@ -1823,7 +1823,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261005-181022",
-      "views": 153,
+      "views": 170,
       "likes": 5,
       "thumbnail": "https://img.youtube.com/vi/ply4_98GCpM/hqdefault.jpg"
     }
@@ -1832,6 +1832,6 @@
     "scheduled": 24,
     "published": 126,
     "today": 0,
-    "total_views": 27301
+    "total_views": 27332
   }
 }
