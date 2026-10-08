@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T14:10:37.335Z",
+  "updated_at": "2026-10-08T16:18:16.260Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1823,15 +1823,27 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261005-181022",
-      "views": 653,
+      "views": 652,
       "likes": 6,
       "thumbnail": "https://img.youtube.com/vi/ply4_98GCpM/hqdefault.jpg"
+    },
+    {
+      "video_id": "S3-wjsqLyS8",
+      "url": "https://youtu.be/S3-wjsqLyS8",
+      "mode": "money",
+      "topic": "The Psychology of 'The Temptation Bundling' in Saving Money",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20261008-161509",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/S3-wjsqLyS8/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 126,
-    "today": 0,
-    "total_views": 27816
+    "published": 127,
+    "today": 1,
+    "total_views": 27815
   }
 }
