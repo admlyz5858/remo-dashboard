@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T14:02:31.287Z",
+  "updated_at": "2026-10-09T16:01:58.150Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1838,12 +1838,24 @@
       "views": 16,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/S3-wjsqLyS8/hqdefault.jpg"
+    },
+    {
+      "video_id": "Sq5uVagY5jc",
+      "url": "https://youtu.be/Sq5uVagY5jc",
+      "mode": "facts",
+      "topic": "The Language of Prairie Dogs",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20261009-155844",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/Sq5uVagY5jc/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 127,
-    "today": 0,
+    "published": 128,
+    "today": 1,
     "total_views": 27833
   }
 }
