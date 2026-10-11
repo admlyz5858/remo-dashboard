@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T09:27:35.384Z",
+  "updated_at": "2026-10-11T15:31:48.839Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -1847,8 +1847,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261009-155844",
-      "views": 19,
-      "likes": 2,
+      "views": 43,
+      "likes": 4,
       "thumbnail": "https://img.youtube.com/vi/Sq5uVagY5jc/hqdefault.jpg"
     },
     {
@@ -1862,12 +1862,24 @@
       "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/9wL0z379wQw/hqdefault.jpg"
+    },
+    {
+      "video_id": "rgaEXTExIXk",
+      "url": "https://youtu.be/rgaEXTExIXk",
+      "mode": "facts",
+      "topic": "Jerboas",
+      "status": "published",
+      "publish_at": null,
+      "runId": "run-20261011-152842",
+      "views": 0,
+      "likes": 0,
+      "thumbnail": "https://img.youtube.com/vi/rgaEXTExIXk/hqdefault.jpg"
     }
   ],
   "metrics": {
     "scheduled": 24,
-    "published": 129,
-    "today": 0,
-    "total_views": 27860
+    "published": 130,
+    "today": 1,
+    "total_views": 27884
   }
 }
