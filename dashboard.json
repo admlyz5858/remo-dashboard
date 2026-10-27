@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T19:03:08.440Z",
+  "updated_at": "2026-10-27T23:19:08.041Z",
   "channels": {
     "facts": {
       "name": "DustMust",
@@ -23,7 +23,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260612-102747",
-      "views": 2,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/dFdeX6Z4PbY/hqdefault.jpg"
     },
@@ -35,7 +35,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260612-191139",
-      "views": 94,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/5E4-lWFUS3U/hqdefault.jpg"
     },
@@ -47,8 +47,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T09:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 1355,
-      "likes": 18,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/XpIV_YYMZN0/hqdefault.jpg"
     },
     {
@@ -59,8 +59,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T15:00:00Z",
       "runId": "run-20260613-090941",
-      "views": 78,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/1ZO4DtSgAZo/hqdefault.jpg"
     },
     {
@@ -71,8 +71,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T09:00:00Z",
       "runId": "run-20260613-090959",
-      "views": 270,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/MuwcHP6pKNg/hqdefault.jpg"
     },
     {
@@ -83,7 +83,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T11:00:00Z",
       "runId": "run-20260613-091014",
-      "views": 51,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/5p9j5fyVuLY/hqdefault.jpg"
     },
@@ -95,7 +95,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-14T17:00:00Z",
       "runId": "run-20260613-091004",
-      "views": 64,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/QmQiyYPgPX0/hqdefault.jpg"
     },
@@ -107,7 +107,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T11:00:00Z",
       "runId": "run-20260613-091018",
-      "views": 33,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/UXOz5sYEsfI/hqdefault.jpg"
     },
@@ -119,8 +119,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T17:00:00Z",
       "runId": "run-20260613-091010",
-      "views": 57,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ILRzREsiIPo/hqdefault.jpg"
     },
     {
@@ -131,8 +131,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-15T15:00:00Z",
       "runId": "run-20260613-105716",
-      "views": 56,
-      "likes": 2,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/JMJnU9-Mjas/hqdefault.jpg"
     },
     {
@@ -143,8 +143,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-112014",
-      "views": 316,
-      "likes": 2,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/nQSwEx0iMWE/hqdefault.jpg"
     },
     {
@@ -155,8 +155,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-122335",
-      "views": 73,
-      "likes": 2,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/52oLd5ptMe8/hqdefault.jpg"
     },
     {
@@ -167,8 +167,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-161100",
-      "views": 241,
-      "likes": 2,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/4hNG3GKb91w/hqdefault.jpg"
     },
     {
@@ -179,7 +179,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260613-181453",
-      "views": 44,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/d3qmDQUF8XQ/hqdefault.jpg"
     },
@@ -191,7 +191,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-16T11:00:00.000Z",
       "runId": "run-20260614-112737",
-      "views": 3,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/VNCD26uQRm0/hqdefault.jpg"
     },
@@ -203,7 +203,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-16T17:00:00.000Z",
       "runId": "run-20260614-113655",
-      "views": 2,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/RgamgFxTqyQ/hqdefault.jpg"
     },
@@ -215,7 +215,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260614-130027",
-      "views": 19,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/HPAgjrc8NTU/hqdefault.jpg"
     },
@@ -227,7 +227,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260614-161822",
-      "views": 2,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/RNJuSq36uMs/hqdefault.jpg"
     },
@@ -239,7 +239,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260614-181824",
-      "views": 3,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/26PT_O5ZVKI/hqdefault.jpg"
     },
@@ -251,8 +251,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-152057",
-      "views": 216,
-      "likes": 3,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/oTRlRjuuvfc/hqdefault.jpg"
     },
     {
@@ -263,8 +263,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-161539",
-      "views": 102,
-      "likes": 3,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/mqtnaHrea5Q/hqdefault.jpg"
     },
     {
@@ -275,7 +275,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-190204",
-      "views": 70,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZNimkFP8mhU/hqdefault.jpg"
     },
@@ -287,7 +287,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260615-202955",
-      "views": 4,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/yPh-icdWJr0/hqdefault.jpg"
     },
@@ -299,7 +299,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260616-141607",
-      "views": 5,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/Pt3hWz6xtmg/hqdefault.jpg"
     },
@@ -311,7 +311,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260616-155159",
-      "views": 21,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/-85xl78uE58/hqdefault.jpg"
     },
@@ -323,7 +323,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-17T11:00:00.000Z",
       "runId": "run-20260616-173154",
-      "views": 14,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/WZgqDJQ9oGU/hqdefault.jpg"
     },
@@ -335,7 +335,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260616-185358",
-      "views": 8,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/1p_eq1SoTTA/hqdefault.jpg"
     },
@@ -383,8 +383,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260617-125533",
-      "views": 1032,
-      "likes": 23,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/hcNrlEKeESU/hqdefault.jpg"
     },
     {
@@ -395,7 +395,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260617-142633",
-      "views": 44,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/3q96wI5mRqo/hqdefault.jpg"
     },
@@ -407,7 +407,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260617-174740",
-      "views": 3,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZlrYjdw-TIM/hqdefault.jpg"
     },
@@ -431,8 +431,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260618-123039",
-      "views": 1465,
-      "likes": 10,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/KgKqRqeugEY/hqdefault.jpg"
     },
     {
@@ -467,7 +467,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-20T11:00:00Z",
       "runId": "run-20260619-200846",
-      "views": 61,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/9cw3zgbO0Mo/hqdefault.jpg"
     },
@@ -479,8 +479,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-20T09:00:00Z",
       "runId": "run-20260619-200838",
-      "views": 524,
-      "likes": 3,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/zkxo479r-MA/hqdefault.jpg"
     },
     {
@@ -491,8 +491,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260620-112235",
-      "views": 204,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/LRSeUyh5YUA/hqdefault.jpg"
     },
     {
@@ -503,7 +503,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260620-113207",
-      "views": 27,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/6LxeKCFS_RI/hqdefault.jpg"
     },
@@ -515,7 +515,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260620-161357",
-      "views": 248,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/d9S_2oMMwWY/hqdefault.jpg"
     },
@@ -527,8 +527,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260620-162421",
-      "views": 6,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/nELU0MXj4n8/hqdefault.jpg"
     },
     {
@@ -539,7 +539,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-21T10:00:00Z",
       "runId": "run-20260620-205829",
-      "views": 114,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/PPch4domx7I/hqdefault.jpg"
     },
@@ -551,8 +551,8 @@
       "status": "scheduled",
       "publish_at": "2026-06-21T09:00:00Z",
       "runId": "run-20260620-205835",
-      "views": 583,
-      "likes": 4,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/jdlCi8MfZDw/hqdefault.jpg"
     },
     {
@@ -563,8 +563,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260621-114918",
-      "views": 441,
-      "likes": 3,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/fcvSqnfdFfY/hqdefault.jpg"
     },
     {
@@ -575,7 +575,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260621-121418",
-      "views": 32,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ViuTOzT7fbU/hqdefault.jpg"
     },
@@ -587,7 +587,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260621-162717",
-      "views": 205,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/3nHyoCgyqRY/hqdefault.jpg"
     },
@@ -599,7 +599,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260621-174623",
-      "views": 30,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/JDlcgZ1_F8g/hqdefault.jpg"
     },
@@ -611,7 +611,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-30T16:00:00Z",
       "runId": "run-20260629-214620",
-      "views": 1,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/NdD3YUk5bIM/hqdefault.jpg"
     },
@@ -623,7 +623,7 @@
       "status": "scheduled",
       "publish_at": "2026-06-30T13:00:00Z",
       "runId": "run-20260629-214617",
-      "views": 62,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/le3fDMNgiCs/hqdefault.jpg"
     },
@@ -635,7 +635,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260630-114832",
-      "views": 3,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/_xPRf0LPkrA/hqdefault.jpg"
     },
@@ -647,7 +647,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260701-121240",
-      "views": 216,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/CWauoLmXrjU/hqdefault.jpg"
     },
@@ -671,8 +671,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260703-113707",
-      "views": 104,
-      "likes": 3,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/FRw46cvzTeY/hqdefault.jpg"
     },
     {
@@ -683,7 +683,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260704-105733",
-      "views": 63,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/nfuB0aBos64/hqdefault.jpg"
     },
@@ -695,8 +695,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260705-110745",
-      "views": 1105,
-      "likes": 14,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/T1xBFD1J5ps/hqdefault.jpg"
     },
     {
@@ -707,7 +707,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260706-125358",
-      "views": 48,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/--A6BedvMEc/hqdefault.jpg"
     },
@@ -719,7 +719,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260707-115602",
-      "views": 77,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/CcoxtV-YRYg/hqdefault.jpg"
     },
@@ -731,7 +731,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260708-110936",
-      "views": 58,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/h6A4bJKow2Q/hqdefault.jpg"
     },
@@ -743,8 +743,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260709-121026",
-      "views": 38,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/0P_dMnimT6I/hqdefault.jpg"
     },
     {
@@ -755,7 +755,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260710-115653",
-      "views": 152,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/3FeQzt1KJvk/hqdefault.jpg"
     },
@@ -767,7 +767,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260711-101850",
-      "views": 1,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/cgxEi0ydV3E/hqdefault.jpg"
     },
@@ -779,7 +779,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260712-103800",
-      "views": 35,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ouvmcnkCXLE/hqdefault.jpg"
     },
@@ -791,7 +791,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260713-121054",
-      "views": 4,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/WmV_yxa_R3g/hqdefault.jpg"
     },
@@ -803,7 +803,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260714-105142",
-      "views": 3,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/dFnTMPKs3gU/hqdefault.jpg"
     },
@@ -815,7 +815,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260715-105536",
-      "views": 1,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/pk_KSsAkWcY/hqdefault.jpg"
     },
@@ -827,7 +827,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260716-110438",
-      "views": 58,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/HyQcBduiJ30/hqdefault.jpg"
     },
@@ -839,7 +839,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260717-105227",
-      "views": 6,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/aVebhehjyhQ/hqdefault.jpg"
     },
@@ -851,7 +851,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260718-102210",
-      "views": 56,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/fexUTCiqGfY/hqdefault.jpg"
     },
@@ -863,7 +863,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260719-103831",
-      "views": 25,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/8KSftMbBXwQ/hqdefault.jpg"
     },
@@ -875,7 +875,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260720-115007",
-      "views": 5,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/m2jOpVSbxkE/hqdefault.jpg"
     },
@@ -887,7 +887,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260721-111316",
-      "views": 3,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/xhtO5VAxat8/hqdefault.jpg"
     },
@@ -899,8 +899,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260722-111356",
-      "views": 155,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/6ApPY5eS-Ww/hqdefault.jpg"
     },
     {
@@ -911,7 +911,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260723-111442",
-      "views": 4,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/yQG-zK5e2RQ/hqdefault.jpg"
     },
@@ -923,8 +923,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260724-111114",
-      "views": 62,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/CjMtCmTv9WQ/hqdefault.jpg"
     },
     {
@@ -935,8 +935,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260725-103738",
-      "views": 341,
-      "likes": 8,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ZS_h1jOgDeg/hqdefault.jpg"
     },
     {
@@ -947,7 +947,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260726-104724",
-      "views": 107,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/uaX3nB93QQA/hqdefault.jpg"
     },
@@ -959,8 +959,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260727-122912",
-      "views": 801,
-      "likes": 5,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/2_o34lOg6CA/hqdefault.jpg"
     },
     {
@@ -983,8 +983,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260729-112946",
-      "views": 151,
-      "likes": 2,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/YdGOMoCnFrw/hqdefault.jpg"
     },
     {
@@ -995,7 +995,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260730-111150",
-      "views": 58,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/C_otVFu8NxU/hqdefault.jpg"
     },
@@ -1007,7 +1007,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260731-113242",
-      "views": 29,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/_UWlglSEQsM/hqdefault.jpg"
     },
@@ -1019,8 +1019,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260801-104445",
-      "views": 265,
-      "likes": 4,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/mxoehUFrlrU/hqdefault.jpg"
     },
     {
@@ -1031,7 +1031,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260802-104418",
-      "views": 27,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/aB_HB75OMXs/hqdefault.jpg"
     },
@@ -1043,8 +1043,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260803-123004",
-      "views": 1752,
-      "likes": 12,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/uRXk4mHVRVY/hqdefault.jpg"
     },
     {
@@ -1055,7 +1055,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260804-121211",
-      "views": 30,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/pAu1EspBnJU/hqdefault.jpg"
     },
@@ -1067,8 +1067,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260805-112441",
-      "views": 271,
-      "likes": 2,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/MaIv1f2vlLk/hqdefault.jpg"
     },
     {
@@ -1079,7 +1079,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260806-112745",
-      "views": 43,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/4PnucXuc3iU/hqdefault.jpg"
     },
@@ -1091,8 +1091,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260807-100524",
-      "views": 809,
-      "likes": 8,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/_w61dQS7HLo/hqdefault.jpg"
     },
     {
@@ -1103,7 +1103,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260808-094228",
-      "views": 13,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/w7HSW2ZhyZE/hqdefault.jpg"
     },
@@ -1115,8 +1115,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260809-094442",
-      "views": 464,
-      "likes": 6,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/giQqDDithcM/hqdefault.jpg"
     },
     {
@@ -1127,7 +1127,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260810-102100",
-      "views": 58,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/NR-pGQQIeeM/hqdefault.jpg"
     },
@@ -1139,8 +1139,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260811-100402",
-      "views": 174,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/iyV4kaEp-24/hqdefault.jpg"
     },
     {
@@ -1151,8 +1151,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260812-101211",
-      "views": 10,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ongMFGAxRUo/hqdefault.jpg"
     },
     {
@@ -1163,8 +1163,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260813-101224",
-      "views": 95,
-      "likes": 2,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/EqZ0syPN5x8/hqdefault.jpg"
     },
     {
@@ -1187,8 +1187,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260815-093012",
-      "views": 665,
-      "likes": 10,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/B9WYip2ofGc/hqdefault.jpg"
     },
     {
@@ -1199,7 +1199,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260816-093134",
-      "views": 15,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/Ws_8x52NMTc/hqdefault.jpg"
     },
@@ -1211,8 +1211,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260817-094752",
-      "views": 71,
-      "likes": 2,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/h1s_rpN1RQI/hqdefault.jpg"
     },
     {
@@ -1235,7 +1235,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260819-093840",
-      "views": 35,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/CKlo-5E89kE/hqdefault.jpg"
     },
@@ -1247,7 +1247,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260820-093915",
-      "views": 73,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ejjmqWgAtms/hqdefault.jpg"
     },
@@ -1259,8 +1259,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260821-094146",
-      "views": 1136,
-      "likes": 14,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/p3zuZvXegE4/hqdefault.jpg"
     },
     {
@@ -1283,8 +1283,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260823-093204",
-      "views": 1076,
-      "likes": 8,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/aTMaVcQxxWA/hqdefault.jpg"
     },
     {
@@ -1307,7 +1307,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260825-094004",
-      "views": 165,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/WObQmOUndJs/hqdefault.jpg"
     },
@@ -1319,7 +1319,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260826-094850",
-      "views": 15,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/JzVGcseYKsU/hqdefault.jpg"
     },
@@ -1331,8 +1331,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260827-194222",
-      "views": 625,
-      "likes": 22,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/2hU7zTf41aU/hqdefault.jpg"
     },
     {
@@ -1343,8 +1343,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260828-204722",
-      "views": 5,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/GZMDIyPDiSc/hqdefault.jpg"
     },
     {
@@ -1355,8 +1355,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260829-141656",
-      "views": 276,
-      "likes": 7,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/0be2OvIHjW0/hqdefault.jpg"
     },
     {
@@ -1367,7 +1367,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260830-142117",
-      "views": 37,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/7C1UUaGUPt8/hqdefault.jpg"
     },
@@ -1379,7 +1379,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260831-165504",
-      "views": 54,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/G-Ngm5XON7Y/hqdefault.jpg"
     },
@@ -1391,7 +1391,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260902-132701",
-      "views": 117,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/dqO54eGz6nU/hqdefault.jpg"
     },
@@ -1403,8 +1403,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260903-132534",
-      "views": 1019,
-      "likes": 4,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/axVJzoglgPg/hqdefault.jpg"
     },
     {
@@ -1415,7 +1415,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260904-132019",
-      "views": 7,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/T-f_TlpVdBg/hqdefault.jpg"
     },
@@ -1427,8 +1427,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260905-123053",
-      "views": 48,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/Iy7QEbo6PjM/hqdefault.jpg"
     },
     {
@@ -1439,7 +1439,7 @@
       "status": "scheduled",
       "publish_at": "2026-09-06T11:00:00.000Z",
       "runId": "run-20260905-174440",
-      "views": 66,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/QzHtCGRrXlo/hqdefault.jpg"
     },
@@ -1451,8 +1451,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260906-124458",
-      "views": 100,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/k4BMvN_9tUA/hqdefault.jpg"
     },
     {
@@ -1463,8 +1463,8 @@
       "status": "scheduled",
       "publish_at": "2026-09-09T09:00:00.000Z",
       "runId": "run-20260908-154231",
-      "views": 210,
-      "likes": 4,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/5f07sj-DYko/hqdefault.jpg"
     },
     {
@@ -1475,8 +1475,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260909-133635",
-      "views": 270,
-      "likes": 15,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/mV3pfVpdSTQ/hqdefault.jpg"
     },
     {
@@ -1511,8 +1511,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260911-132448",
-      "views": 1066,
-      "likes": 19,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/hI6eNA4XdGA/hqdefault.jpg"
     },
     {
@@ -1523,7 +1523,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260912-124537",
-      "views": 73,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/uuIrZEhx0pk/hqdefault.jpg"
     },
@@ -1535,8 +1535,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260913-134426",
-      "views": 1201,
-      "likes": 30,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/FPsQn67wwKs/hqdefault.jpg"
     },
     {
@@ -1547,7 +1547,7 @@
       "status": "scheduled",
       "publish_at": "2026-09-14T11:00:00.000Z",
       "runId": "run-20260913-174749",
-      "views": 17,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/Ubmkhio7v5Y/hqdefault.jpg"
     },
@@ -1559,7 +1559,7 @@
       "status": "scheduled",
       "publish_at": "2026-09-14T11:00:00.000Z",
       "runId": "run-20260913-174759",
-      "views": 46,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/7KQjJ6suo2c/hqdefault.jpg"
     },
@@ -1571,8 +1571,8 @@
       "status": "scheduled",
       "publish_at": "2026-09-14T09:00:00.000Z",
       "runId": "run-20260913-174816",
-      "views": 31,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/N5lIMwS8qVA/hqdefault.jpg"
     },
     {
@@ -1595,8 +1595,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260915-141525",
-      "views": 571,
-      "likes": 9,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/cIaAA3z2xdY/hqdefault.jpg"
     },
     {
@@ -1607,7 +1607,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260916-140731",
-      "views": 1,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/5AXT_wGw-Ow/hqdefault.jpg"
     },
@@ -1619,8 +1619,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260917-141257",
-      "views": 520,
-      "likes": 9,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/Q2qT7FWF3aQ/hqdefault.jpg"
     },
     {
@@ -1631,7 +1631,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260918-133106",
-      "views": 7,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/J_Qje6tBzxU/hqdefault.jpg"
     },
@@ -1643,8 +1643,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260919-130010",
-      "views": 256,
-      "likes": 7,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ze1gfdg-P1o/hqdefault.jpg"
     },
     {
@@ -1655,7 +1655,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260920-133127",
-      "views": 3,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/RE6017suupg/hqdefault.jpg"
     },
@@ -1667,8 +1667,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260921-154720",
-      "views": 324,
-      "likes": 5,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/1pZfbZWqpzw/hqdefault.jpg"
     },
     {
@@ -1679,7 +1679,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260922-135829",
-      "views": 12,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/RyPzMVrsvig/hqdefault.jpg"
     },
@@ -1691,8 +1691,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260923-141036",
-      "views": 266,
-      "likes": 5,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/AayPVdt33Pw/hqdefault.jpg"
     },
     {
@@ -1715,8 +1715,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260926-134143",
-      "views": 34,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/L4zDJ4W0B1I/hqdefault.jpg"
     },
     {
@@ -1727,8 +1727,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260927-143816",
-      "views": 100,
-      "likes": 9,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/rfRNgPhGdVs/hqdefault.jpg"
     },
     {
@@ -1739,7 +1739,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260928-173030",
-      "views": 19,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/5NMiYt0nmUk/hqdefault.jpg"
     },
@@ -1751,8 +1751,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20260929-153317",
-      "views": 266,
-      "likes": 2,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/k5FHCa7auxc/hqdefault.jpg"
     },
     {
@@ -1775,8 +1775,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261001-161233",
-      "views": 171,
-      "likes": 7,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/CP7Tgh47LMI/hqdefault.jpg"
     },
     {
@@ -1787,7 +1787,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261002-153540",
-      "views": 7,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/h3W0mBX2Qxo/hqdefault.jpg"
     },
@@ -1799,8 +1799,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261003-141431",
-      "views": 34,
-      "likes": 1,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/de0eUnxRIVQ/hqdefault.jpg"
     },
     {
@@ -1811,7 +1811,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261004-144324",
-      "views": 4,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/cM0tqRWPoqg/hqdefault.jpg"
     },
@@ -1823,8 +1823,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261005-181022",
-      "views": 656,
-      "likes": 6,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/ply4_98GCpM/hqdefault.jpg"
     },
     {
@@ -1835,7 +1835,7 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261008-161509",
-      "views": 17,
+      "views": 0,
       "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/S3-wjsqLyS8/hqdefault.jpg"
     },
@@ -1847,8 +1847,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261009-155844",
-      "views": 62,
-      "likes": 4,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/Sq5uVagY5jc/hqdefault.jpg"
     },
     {
@@ -1871,8 +1871,8 @@
       "status": "published",
       "publish_at": null,
       "runId": "run-20261011-152842",
-      "views": 343,
-      "likes": 7,
+      "views": 0,
+      "likes": 0,
       "thumbnail": "https://img.youtube.com/vi/rgaEXTExIXk/hqdefault.jpg"
     }
   ],
@@ -1880,6 +1880,6 @@
     "scheduled": 24,
     "published": 130,
     "today": 0,
-    "total_views": 28257
+    "total_views": 0
   }
 }
